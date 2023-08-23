@@ -1,10 +1,14 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
+White space in argument---line 8 of file chapter4.aux
+ : \citation{Parnell2022AMC
+ :                          }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: chapter6.aux
 The style file: plain-fa.bst
@@ -16,45 +20,45 @@ Warning--I didn't find a database entry for "ALOMARI2022101276"
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 16 entries,
+You've used 17 entries,
             2546 wiz_defined-function locations,
-            748 strings with 8747 characters,
-and the built_in function-call counts, 6775 in all, are:
-= -- 621
-> -- 306
+            755 strings with 8975 characters,
+and the built_in function-call counts, 7177 in all, are:
+= -- 655
+> -- 329
 < -- 5
-+ -- 126
-- -- 104
-* -- 433
-:= -- 1001
-add.period$ -- 52
-call.type$ -- 16
-change.case$ -- 100
++ -- 135
+- -- 112
+* -- 463
+:= -- 1066
+add.period$ -- 55
+call.type$ -- 17
+change.case$ -- 107
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 251
-empty$ -- 464
-format.name$ -- 104
-if$ -- 1614
+cite$ -- 17
+duplicate$ -- 262
+empty$ -- 489
+format.name$ -- 112
+if$ -- 1705
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 158
-newline$ -- 150
-num.names$ -- 32
-pop$ -- 102
+int.to.str$ -- 17
+missing$ -- 168
+newline$ -- 159
+num.names$ -- 34
+pop$ -- 107
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 90
 quote$ -- 0
-skip$ -- 194
+skip$ -- 201
 stack$ -- 0
-substring$ -- 367
-swap$ -- 78
+substring$ -- 390
+swap$ -- 79
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 64
+type$ -- 68
 warning$ -- 0
-while$ -- 55
-width$ -- 18
-write$ -- 234
-(There was 1 warning)
+while$ -- 58
+width$ -- 19
+write$ -- 248
+(There was 1 error message)

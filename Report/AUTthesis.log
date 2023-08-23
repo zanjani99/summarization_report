@@ -1,49 +1,49 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.8.2)  23 AUG 2023 01:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.8.22)  23 AUG 2023 10:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **AUTthesis.tex
 (./AUTthesis.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (./AUTthesis.cls
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./AUTthesis.cls
 Document Class: AUTthesis 08/04/2012 v0.4 Persian thesis document class in XeLa
 TeX for University of Amirkabir projects/theses/dissertations
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
-File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count163
-\c@chapter=\count164
-\c@section=\count165
-\c@subsection=\count166
-\c@subsubsection=\count167
-\c@paragraph=\count168
-\c@subparagraph=\count169
-\c@figure=\count170
-\c@table=\count171
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )) (./commands.tex
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks14
-\thm@bodyfont=\toks15
-\thm@headfont=\toks16
-\thm@notefont=\toks17
-\thm@headpunct=\toks18
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks16
+\thm@bodyfont=\toks17
+\thm@headfont=\toks18
+\thm@notefont=\toks19
+\thm@headpunct=\toks20
 \thm@preskip=\skip49
 \thm@postskip=\skip50
 \thm@headsep=\skip51
-\dth@everypar=\toks19
+\dth@everypar=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
+\@emptytoks=\toks22
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -51,123 +51,123 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
+Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip52
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+Package: amstext 2021/08/26 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen135
+\@emptytoks=\toks23
+\ex@=\dimen139
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen136
+\pmbraise@=\dimen140
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count172
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count173
-\leftroot@=\count174
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count175
-\DOTSCASE@=\count176
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen137
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count177
-\c@MaxMatrixCols=\count178
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
 \dotsspace@=\muskip16
-\c@parentequation=\count179
-\dspbrk@lvl=\count180
-\tag@help=\toks22
-\row@=\count181
-\column@=\count182
-\maxfields@=\count183
-\andhelp@=\toks23
-\eqnshift@=\dimen138
-\alignsep@=\dimen139
-\tagshift@=\dimen140
-\tagwidth@=\dimen141
-\totwidth@=\dimen142
-\lineht@=\dimen143
-\@envbody=\toks24
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks24
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks25
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks26
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks25
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks26
+\KV@toks@=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count184
-\Gm@cntv=\count185
-\c@Gm@tempcnt=\count186
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
-\Gm@dimlist=\toks27
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen148
+\Gm@wd@mp=\dimen149
+\Gm@odd@mp=\dimen150
+\Gm@even@mp=\dimen151
+\Gm@layoutwidth=\dimen152
+\Gm@layoutheight=\dimen153
+\Gm@layouthoffset=\dimen154
+\Gm@layoutvoffset=\dimen155
+\Gm@dimlist=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 107.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen152
-\Gin@req@width=\dimen153
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: xetex.def on input line 147.
+Package color Info: Driver file: xetex.def on input line 149.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2019/10/16 v2.13 TOC entries
-\ttl@leftsep=\dimen154
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen158
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -201,8 +201,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip81
 \cftfigindent=\skip82
 \cftfignumwidth=\skip83
-\c@lofdepth=\count187
-\c@lotdepth=\count188
+\c@lofdepth=\count271
+\c@lotdepth=\count272
 \cftbeforelottitleskip=\skip84
 \cftafterlottitleskip=\skip85
 \cftbeforetabskip=\skip86
@@ -212,140 +212,137 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip89
-\enit@outerparindent=\dimen155
-\enit@toks=\toks28
-\enit@inbox=\box47
-\enit@count@id=\count189
-\enitdp@description=\count190
+\enit@outerparindent=\dimen159
+\enit@toks=\toks30
+\enit@inbox=\box52
+\enit@count@id=\count273
+\enitdp@description=\count274
 )
 (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
-Package: todonotes 2018/11/22
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks29
-\XKV@tempa@toks=\toks30
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
 )
-\XKV@depth=\count191
+\XKV@depth=\count275
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+Package xcolor Info: Driver file: xetex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen156
-\pgfutil@tempdimb=\dimen157
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box48
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+\pgfutil@abb=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks32
-\pgfkeys@temptoks=\toks33
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks34
+\pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen158
-\pgf@y=\dimen159
-\pgf@xa=\dimen160
-\pgf@ya=\dimen161
-\pgf@xb=\dimen162
-\pgf@yb=\dimen163
-\pgf@xc=\dimen164
-\pgf@yc=\dimen165
-\pgf@xd=\dimen166
-\pgf@yd=\dimen167
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count192
-\c@pgf@countb=\count193
-\c@pgf@countc=\count194
-\c@pgf@countd=\count195
-\t@pgf@toka=\toks35
-\t@pgf@tokb=\toks36
-\t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count196
+\c@pgf@counta=\count276
+\c@pgf@countb=\count277
+\c@pgf@countc=\count278
+\c@pgf@countd=\count279
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count280
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-xetex.def
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
-File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
 f
-File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )
-\pgfsys@objnum=\count197
+\pgfsys@objnum=\count281
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
-File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count198
-\pgfsyssoftpath@bigbuffer@items=\count199
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count282
+\pgfsyssoftpath@bigbuffer@items=\count283
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
-File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen168
-\pgfmath@count=\count266
-\pgfmath@box=\box49
-\pgfmath@toks=\toks38
-\pgfmath@stack@operand=\toks39
-\pgfmath@stack@operation=\toks40
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count284
+\pgfmath@box=\box54
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -365,229 +362,218 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count267
+\c@pgfmathroundto@lastzeros=\count285
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
-File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen169
-\pgf@picmaxx=\dimen170
-\pgf@picminy=\dimen171
-\pgf@picmaxy=\dimen172
-\pgf@pathminx=\dimen173
-\pgf@pathmaxx=\dimen174
-\pgf@pathminy=\dimen175
-\pgf@pathmaxy=\dimen176
-\pgf@xx=\dimen177
-\pgf@xy=\dimen178
-\pgf@yx=\dimen179
-\pgf@yy=\dimen180
-\pgf@zx=\dimen181
-\pgf@zy=\dimen182
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
-File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen183
-\pgf@path@lasty=\dimen184
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
-File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen185
-\pgf@shorten@start@additional=\dimen186
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
-File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box50
-\pgf@hbox=\box51
-\pgf@layerbox@main=\box52
-\pgf@picture@serial@count=\count268
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count286
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen187
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen191
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
-File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen188
-\pgf@pt@y=\dimen189
-\pgf@pt@temp=\dimen190
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
 ex
-File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
 .code.tex
-File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
-File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen191
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen195
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen192
-\pgf@sys@shading@range@num=\count269
-\pgf@shadingcount=\count270
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count287
+\pgf@shadingcount=\count288
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
-File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box53
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
-File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
 ode.tex
-File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
 tex
-File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box54
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen193
-\pgf@nodesepend=\dimen194
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen197
+\pgf@nodesepend=\dimen198
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen195
-\pgffor@skip=\dimen196
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@iter=\dimen199
+\pgffor@skip=\dimen256
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count271
-\pgfplotmarksize=\dimen197
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count289
+\pgfplotmarksize=\dimen257
 )
-\tikz@lastx=\dimen198
-\tikz@lasty=\dimen199
-\tikz@lastxsaved=\dimen256
-\tikz@lastysaved=\dimen257
-\tikz@lastmovetox=\dimen258
-\tikz@lastmovetoy=\dimen259
-\tikzleveldistance=\dimen260
-\tikzsiblingdistance=\dimen261
-\tikz@figbox=\box55
-\tikz@figbox@bg=\box56
-\tikz@tempbox=\box57
-\tikz@tempbox@bg=\box58
-\tikztreelevel=\count272
-\tikznumberofchildren=\count273
-\tikznumberofcurrentchild=\count274
-\tikz@fig@count=\count275
+\tikz@lastx=\dimen258
+\tikz@lasty=\dimen259
+\tikz@lastxsaved=\dimen260
+\tikz@lastysaved=\dimen261
+\tikz@lastmovetox=\dimen262
+\tikz@lastmovetoy=\dimen263
+\tikzleveldistance=\dimen264
+\tikzsiblingdistance=\dimen265
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count290
+\tikznumberofchildren=\count291
+\tikznumberofcurrentchild=\count292
+\tikz@fig@count=\count293
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count276
-\pgfmatrixcurrentcolumn=\count277
-\pgf@matrix@numberofcolumns=\count278
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count294
+\pgfmatrixcurrentcolumn=\count295
+\pgf@matrix@numberofcolumns=\count296
 )
-\tikz@expandcount=\count279
+\tikz@expandcount=\count297
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
-.tex
-File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count280
-\calc@Bcount=\count281
-\calc@Adimen=\dimen262
-\calc@Bdimen=\dimen263
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen266
+\calc@Bdimen=\dimen267
 \calc@Askip=\skip90
 \calc@Bskip=\skip91
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count282
+\calc@Ccount=\count300
 \calc@Cskip=\skip92
 )
-\c@@todonotes@numberoftodonotes=\count283
+\c@@todonotes@numberoftodonotes=\count301
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen264
-\lightrulewidth=\dimen265
-\cmidrulewidth=\dimen266
-\belowrulesep=\dimen267
-\belowbottomsep=\dimen268
-\aboverulesep=\dimen269
-\abovetopsep=\dimen270
-\cmidrulesep=\dimen271
-\cmidrulekern=\dimen272
-\defaultaddspace=\dimen273
-\@cmidla=\count284
-\@cmidlb=\count285
-\@aboverulesep=\dimen274
-\@belowrulesep=\dimen275
-\@thisruleclass=\count286
-\@lastruleclass=\count287
-\@thisrulewidth=\dimen276
+\heavyrulewidth=\dimen268
+\lightrulewidth=\dimen269
+\cmidrulewidth=\dimen270
+\belowrulesep=\dimen271
+\belowbottomsep=\dimen272
+\aboverulesep=\dimen273
+\abovetopsep=\dimen274
+\cmidrulesep=\dimen275
+\cmidrulekern=\dimen276
+\defaultaddspace=\dimen277
+\@cmidla=\count302
+\@cmidlb=\count303
+\@aboverulesep=\dimen278
+\@belowrulesep=\dimen279
+\@thisruleclass=\count304
+\@lastruleclass=\count305
+\@thisrulewidth=\dimen280
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -616,14 +602,18 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen277
-\Hy@linkcounter=\count288
-\Hy@pagecounter=\count289
+\@linkdim=\dimen281
+\Hy@linkcounter=\count306
+\Hy@pagecounter=\count307
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
 )
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -631,23 +621,27 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count290
-Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+\Hy@SavedSpaceFactor=\count308
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count291
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count309
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen278
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen282
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -656,50 +650,49 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count292
-\Field@Width=\dimen279
-\Fld@charsize=\dimen280
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring ON on input line 6448.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+\Fld@menulength=\count310
+\Field@Width=\dimen283
+\Fld@charsize=\dimen284
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 
-(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count293
-\c@Item=\count294
-\c@Hfootnote=\count295
+\Hy@abspage=\count311
+\c@Item=\count312
+\c@Hfootnote=\count313
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box59
-\c@Hy@AnnotLevel=\count296
-\HyField@AnnotCount=\count297
-\Fld@listcount=\count298
-\c@bookmark@seq@number=\count299
+\pdfm@box=\box64
+\c@Hy@AnnotLevel=\count314
+\HyField@AnnotCount=\count315
+\Fld@listcount=\count316
+\c@bookmark@seq@number=\count317
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
 )
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
@@ -729,8 +722,8 @@ Package cleveref Info: include cross-reference names in hyperlinks on input lin
 e 7852.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip94
 \f@nch@O@elh=\skip95
 \f@nch@O@erh=\skip96
@@ -749,36 +742,31 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count300
-\mult@box=\box60
-\multicol@leftmargin=\dimen281
-\c@unbalance=\count301
-\c@collectmore=\count302
-\doublecol@number=\count303
-\multicoltolerance=\count304
-\multicolpretolerance=\count305
-\full@width=\dimen282
-\page@free=\dimen283
-\premulticols=\dimen284
-\postmulticols=\dimen285
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count318
+\mult@box=\box65
+\multicol@leftmargin=\dimen285
+\c@unbalance=\count319
+\c@collectmore=\count320
+\doublecol@number=\count321
+\multicoltolerance=\count322
+\multicolpretolerance=\count323
+\full@width=\dimen286
+\page@free=\dimen287
+\premulticols=\dimen288
+\postmulticols=\dimen289
 \multicolsep=\skip103
 \multicolbaselineskip=\skip104
-\partial@page=\box61
-\last@line=\box62
-\maxbalancingoverflow=\dimen286
-\mult@rightbox=\box63
-\mult@grightbox=\box64
-\mult@gfirstbox=\box65
-\mult@firstbox=\box66
-\@tempa=\box67
-\@tempa=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
+\partial@page=\box66
+\last@line=\box67
+\maxbalancingoverflow=\dimen290
+\mult@rightbox=\box68
+\mult@grightbox=\box69
+\mult@firstbox=\box70
+\mult@gfirstbox=\box71
 \@tempa=\box72
 \@tempa=\box73
 \@tempa=\box74
@@ -811,20 +799,24 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box101
 \@tempa=\box102
 \@tempa=\box103
-\c@minrows=\count306
-\c@columnbadness=\count307
-\c@finalcolumnbadness=\count308
-\last@try=\dimen287
-\multicolovershoot=\dimen288
-\multicolundershoot=\dimen289
-\mult@nat@firstbox=\box104
-\colbreak@box=\box105
-\mc@col@check@num=\count309
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\c@minrows=\count324
+\c@columnbadness=\count325
+\c@finalcolumnbadness=\count326
+\last@try=\dimen291
+\multicolovershoot=\dimen292
+\multicolundershoot=\dimen293
+\mult@nat@firstbox=\box108
+\colbreak@box=\box109
+\mc@col@check@num=\count327
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks43
-\verbatim@line=\toks44
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks45
+\verbatim@line=\toks46
 \verbatim@in@stream=\read3
 )
 \@indexfile=\write4
@@ -845,97 +837,99 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 ) (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian.sty
-Package: xepersian 2020-01-31 v22.8 Persian typesetting in XeLaTeX
+Package: xepersian 2022/02/01 v23.2 Persian typesetting in XeLaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-02-14 L3 programming layer (loader) 
+Package: expl3 2022-01-21 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count310
-\l__pdf_internal_box=\box106
-\g__pdf_backend_object_int=\count311
-\g__pdf_backend_annotation_int=\count312
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count328
+\l__color_backend_stack_int=\count329
+\g__color_backend_stack_int=\count330
+\g__graphics_track_int=\count331
+\l__pdf_internal_box=\box110
+\g__pdf_backend_object_int=\count332
+\g__pdf_backend_annotation_int=\count333
+\g__pdf_backend_link_int=\count334
 ))
-Package: xparse 2020-02-14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count313
-\g__xparse_grabber_int=\count314
-\l__xparse_m_args_int=\count315
-\l__xparse_v_nesting_int=\count316
+Package: xparse 2022-01-12 L3 Experimental document command parser
 )
-Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count317
-\l__fontspec_language_int=\count318
-\l__fontspec_strnum_int=\count319
-\l__fontspec_tmp_int=\count320
-\l__fontspec_tmpa_int=\count321
-\l__fontspec_tmpb_int=\count322
-\l__fontspec_tmpc_int=\count323
-\l__fontspec_em_int=\count324
-\l__fontspec_emdef_int=\count325
-\l__fontspec_strong_int=\count326
-\l__fontspec_strongdef_int=\count327
-\l__fontspec_tmpa_dim=\dimen290
-\l__fontspec_tmpb_dim=\dimen291
-\l__fontspec_tmpc_dim=\dimen292
+\l__fontspec_script_int=\count335
+\l__fontspec_language_int=\count336
+\l__fontspec_strnum_int=\count337
+\l__fontspec_tmp_int=\count338
+\l__fontspec_tmpa_int=\count339
+\l__fontspec_tmpb_int=\count340
+\l__fontspec_tmpc_int=\count341
+\l__fontspec_em_int=\count342
+\l__fontspec_emdef_int=\count343
+\l__fontspec_strong_int=\count344
+\l__fontspec_strongdef_int=\count345
+\l__fontspec_tmpa_dim=\dimen294
+\l__fontspec_tmpb_dim=\dimen295
+\l__fontspec_tmpc_dim=\dimen296
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count328
-\XePersian@y=\count329
-\XePersian@m=\count330
-\XePersian@d=\count331
-\XePersian@latini=\count332
-\XePersian@persiani=\count333
-\XePersian@latinii=\count334
-\XePersian@persianii=\count335
-\XePersian@latiniii=\count336
-\XePersian@persianiii=\count337
-\XePersian@latiniv=\count338
-\XePersian@persianiv=\count339
-\XePersian@latinv=\count340
-\XePersian@persianv=\count341
-\XePersian@latinvi=\count342
-\XePersian@persianvi=\count343
-\XePersian@latinvii=\count344
-\XePersian@persianvii=\count345
-\XePersian@latinviii=\count346
-\XePersian@persianviii=\count347
-\XePersian@latinix=\count348
-\XePersian@persianix=\count349
-\XePersian@latinx=\count350
-\XePersian@persianx=\count351
-\XePersian@latinxi=\count352
-\XePersian@persianxi=\count353
-\XePersian@latinxii=\count354
-\XePersian@persianxii=\count355
-\XePersian@persianxiii=\count356
-\XePersian@temp=\count357
-\XePersian@temptwo=\count358
-\XePersian@tempthree=\count359
-\XePersian@yModHundred=\count360
-\XePersian@thirtytwo=\count361
-\XePersian@dn=\count362
-\XePersian@sn=\count363
-\XePersian@mminusone=\count364
+\XePersian@i=\count346
+\XePersian@y=\count347
+\XePersian@m=\count348
+\XePersian@d=\count349
+\XePersian@latini=\count350
+\XePersian@persiani=\count351
+\XePersian@latinii=\count352
+\XePersian@persianii=\count353
+\XePersian@latiniii=\count354
+\XePersian@persianiii=\count355
+\XePersian@latiniv=\count356
+\XePersian@persianiv=\count357
+\XePersian@latinv=\count358
+\XePersian@persianv=\count359
+\XePersian@latinvi=\count360
+\XePersian@persianvi=\count361
+\XePersian@latinvii=\count362
+\XePersian@persianvii=\count363
+\XePersian@latinviii=\count364
+\XePersian@persianviii=\count365
+\XePersian@latinix=\count366
+\XePersian@persianix=\count367
+\XePersian@latinx=\count368
+\XePersian@persianx=\count369
+\XePersian@latinxi=\count370
+\XePersian@persianxi=\count371
+\XePersian@latinxii=\count372
+\XePersian@persianxii=\count373
+\XePersian@persianxiii=\count374
+\XePersian@temp=\count375
+\XePersian@temptwo=\count376
+\XePersian@tempthree=\count377
+\XePersian@yModHundred=\count378
+\XePersian@thirtytwo=\count379
+\XePersian@dn=\count380
+\XePersian@sn=\count381
+\XePersian@mminusone=\count382
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/xepersian-mathsdigitspec.s
 ty
-Package: xepersian-mathsdigitspec 2018/12/16 v1.1.7 Unicode Persian maths digit
+Package: xepersian-mathsdigitspec 2022/02/01 v1.1.8 Unicode Persian maths digit
 s in XeLaTeX
 ) (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/bidi.sty
-Package: bidi 2020-01-29 v35.11 Bidirectional typesetting in plain TeX and LaTe
-X
+Package: bidi 2022/02/01 v36.4 Bidirectional typesetting in plain TeX and LaTeX
+
 
 ****************************************************
 * 
@@ -947,66 +941,77 @@ X
 * and LaTeX. The package includes adaptations
 * for use with many other commonly-used packages.
 * 
-* Copyright (c) 2009--2019 Vafa Khalighi
-* 2018-2020 bidi-tex GitHub Organisation
+* Copyright (c) 2007--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
 * 
-* v35.11, 2020-01-29
+* v36.4, 2022/02/01
 * 
 * License: LaTeX Project Public License, version
 * 1.3c or higher (your choice)
 * 
 * Location on CTAN: /macros/xetex/latex/bidi
 * 
-* Issue tracker: https://github.com/bidi-tex/bidi/issues
+* Issue tracker: https://github.com/tex-persian/bidi/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of bidi package: Vafa Khalighi.
 * 
 ****************************************************
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/biditools.sty
-Package: biditools 2020-01-29 v1.10 Programming tools for bidi package
-\@bidi@envbody=\toks45
-\@bidi@emptytoks=\toks46
-\bidi@tempcountb=\count365
-\bidi@temptoksa=\toks47
-\bidi@temptoksb=\toks48
-\bidi@dummies=\count366
-\bidi@are@these@correct=\toks49
-\bidi@toks@lista=\toks50
-\bidi@toks@listb=\toks51
-\bidi@stack@length=\count367
-\bidi@empty@stack=\toks52
-\bidi@looprepeat@depth=\count368
+Package: biditools 2022/02/01 v2.1 Programming tools for bidi package
+\@bidi@envbody=\toks47
+\@bidi@emptytoks=\toks48
+\bidi@poscount=\count383
+\bidi@tempcountb=\count384
+\bidi@temptoksa=\toks49
+\bidi@temptoksb=\toks50
+\bidi@dummies=\count385
+\bidi@are@these@correct=\toks51
+\bidi@toks@lista=\toks52
+\bidi@toks@listb=\toks53
+\bidi@stack@length=\count386
+\bidi@empty@stack=\toks54
+\bidi@looprepeat@depth=\count387
 )
+==> First Aid for biditools.sty no longer applied!
+    Expected:
+        2020/05/13 v2 Programming tools for bidi package
+    but found:
+        2022/02/01 v2.1 Programming tools for bidi package
+    so I'm assuming it got fixed.
 (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
-Package zref Info: New property list: main on input line 763.
-Package zref Info: New property: default on input line 764.
-Package zref Info: New property: page on input line 765.
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
 )
-\c@abspage=\count369
+\c@abspage=\count388
 Package zref Info: New property: abspage on input line 66.
 )
 \@bidi@copyins@=\insert252
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
-File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+File: latex-xetex-bidi.def 2022/02/01 v1.3.8 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks53
-\bidi@column@check@number=\count370
+\bidi@n@everypar=\toks55
+\bidi@column@check@number=\count389
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count371
-\footdir@toks=\toks54
+\c@footdir@label=\count390
+\footdir@toks=\toks56
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/book-xetex-bidi.def
 File: book-xetex-bidi.def 2017/06/09 v1.0 bidi adaptations for standard book cl
 ass for XeTeX engine
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
-File: amsmath-xetex-bidi.def 2018/01/08 v1.1 bidi adaptations for amsmath packa
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
 ge for XeTeX engine
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def
@@ -1020,13 +1025,13 @@ File: amsthm-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for amsthm package
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
 File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
 or XeTeX engine
-LaTeX Info: Redefining \color on input line 46.
+LaTeX Info: Redefining \color on input line 50.
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
 File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
  for XeTeX engine
-LaTeX Info: Redefining \color on input line 45.
-LaTeX Info: Redefining \bidicolor on input line 88.
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
 File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
@@ -1053,7 +1058,7 @@ File: titletoc-xetex-bidi.def 2013/04/10 v0.2 bidi adaptations for titletoc pac
 kage for XeTeX engine
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/multicol-xetex-bidi.def
-File: multicol-xetex-bidi.def 2020-01-29 v1.2 bidi adaptations for multicol pac
+File: multicol-xetex-bidi.def 2022/02/01 v1.3 bidi adaptations for multicol pac
 kage for XeTeX engine
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/bidi/tocbibind-xetex-bidi.def
@@ -1072,7 +1077,7 @@ ackage for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count372
+\bidi@digits=\count391
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -1084,22 +1089,26 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * typesetting, using fonts provided in the
 * distribution.
 * 
-* Copyright (c) 2008-2019 Vafa Khalighi
-* 2018-2020 bidi-tex GitHub Organisation
+* Copyright (c) 2008--2022 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
 * 
-* v22.8, 2020-01-31
+* v23.2, 2022/02/01
 * 
 * License: LaTeX Project Public License, version
 * 1.3c or higher (your choice)
 * 
 * Location on CTAN: /macros/xetex/latex/xepersian
 * 
-* Issue tracker: https://github.com/bidi-tex/xepersian/issues
+* Issue tracker: https://github.com/tex-persian/xepersian/issues
+* 
+* Support Email: tex-persian@vafa.ac
+* 
+* Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count373
-\xepersian@ilg=\dimen293
-\xepersian@strutilg=\dimen294
+\xepersian@tcl=\count392
+\xepersian@ilg=\dimen297
+\xepersian@strutilg=\dimen298
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
@@ -1116,7 +1125,7 @@ File: hyperref-xepersian.def 2015/02/02 v0.6 bilingual captions for hyperref pa
 ckage
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/tikz.code-xepersian.def
-File: tikz.code-xepersian.def 2018/12/11 v0.1 adaptations for tikz.code.tex fil
+File: tikz.code-xepersian.def 2020/05/17 v0.2 adaptations for tikz.code.tex fil
 e
 )
 (/usr/share/texlive/texmf-dist/tex/xelatex/xepersian/tocloft-xepersian.def
@@ -1228,12 +1237,12 @@ Package fontspec Info: Font family 'BNazanin.ttf(1)' created for font 'B
 n-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-\c@definition=\count374
+\c@definition=\count393
 
 
 Package amsthm Warning: Unknown theoremstyle `theorem' on input line 120.
 
-\c@savepage=\count375
+\c@savepage=\count394
 )
 
 LaTeX Warning: Unused global option(s):
@@ -1304,17 +1313,15 @@ LaTeX Font Info:    ... okay on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ABD: EveryShipout initializing macros
 
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
 loading the todonotes package. on input line 32.
 
-\AtBeginShipoutBox=\box107
 Package hyperref Info: Link coloring ON on input line 32.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -1322,7 +1329,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count376
+\c@section@level=\count395
 )
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
@@ -1354,10 +1361,6 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 21.59995pt on input line 38.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 21.59995pt on input line 38.
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
-File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
-
-)
 [1
 
 ]
@@ -1390,10 +1393,12 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 17.27994pt on input line 46.
 ) (./TOC-TOF-LOT.tex
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1
 
@@ -1420,13 +1425,31 @@ LaTeX Warning: Citation `ALOMARI2022101276' on page ج undefined on input line 5
 \tf@lof=\write7
 \openout7 = `AUTthesis.lof'.
 
- [3
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
 
 ] (./AUTthesis.lot)
 \tf@lot=\write8
 \openout8 = `AUTthesis.lot'.
 
- [4
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
 
 ]) (./list-of-symbols.tex
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
@@ -1481,6 +1504,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
 [][]
  []
 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [5
 
 
@@ -1499,34 +1530,97 @@ LaTeX Font Warning: Font shape `TU/BNazanin.ttf(1)/b/n' undefined
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(1)/m/n' will be
 (Font)              scaled to size 32.84999pt on input line 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [1
 
 
-]) [2]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 فصل 2.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(1)/b/n' will be
 (Font)              scaled to size 32.84999pt on input line 1.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [3
 
 
 
-] [4] [5]) [6]
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 فصل 3.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [7
+
 
 
 
 ]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 2.
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 
 Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
 [][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
@@ -1537,8 +1631,8 @@ Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
 [][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
  []
 
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 
 Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
 [][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
@@ -1565,77 +1659,141 @@ File: Variational Hierarchical Model.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-[8] [9]) [10]
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‫ (U+202B) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‪ (U+202A) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+Missing character: There is no ‬ (U+202C) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Overfull \hbox (2.7727pt too wide) in paragraph at lines 105--107
+[][]\TU/BNazanin.ttf(0)/b/n/12 این روش می‌تواند از مدل‌های خلاصه‌سازی مختلف از 
+جمله شبکه‌ی عصبی بازگشتی و ترنسفورمرها[]
+ []
+
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
-[11
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12
+
 
 
 
 ]
-Missing character: There is no R in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no L in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [12]
-Missing character: There is no φ in font cmmi12!
-Missing character: There is no ـ in font cmmi12!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no X (U+0058) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 
-Overfull \hbox (0.81679pt too wide) in paragraph at lines 61--61
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 بهترش[] 
- []
+LaTeX Warning: Citation `Parnell2022AMC ' on page 13 undefined on input line 31
+.
 
 
-Overfull \hbox (0.81679pt too wide) in paragraph at lines 61--61
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 بهترش[] 
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-Overfull \hbox (0.81679pt too wide) in paragraph at lines 61--61
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 بهترش[] 
- []
+[13]
+Missing character: There is no φ ("3C6) in font cmmi12!
+Missing character: There is no ـ ("640) in font cmmi12!
+)
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
-Overfull \hbox (0.81679pt too wide) in paragraph at lines 61--61
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 بهترش[] 
- []
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-) [13] [14]
+[14]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 فصل 5.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [15
+
 
 
 
@@ -1644,7 +1802,16 @@ Overfull \hbox (0.81679pt too wide) in paragraph at lines 61--61
 
  (./chapter6.tex
 فصل 6.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [16
+
 
 
 
@@ -1655,10 +1822,10 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
-1.
+3.
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 37--42
+Underfull \hbox (badness 1688) in paragraph at lines 48--53
 [][]\TU/TimesNewRoman.ttf(0)/m/it/12 Grathwohl, Will, Choi, Dami, Wu, Yuhuai, R
 oeder, Geoffrey, and Duvenaud,[]
  []
@@ -1666,10 +1833,29 @@ oeder, Geoffrey, and Duvenaud,[]
 [17
 
 
+
 ]
-Missing character: There is no Ł in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
- [18]) [19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+Missing character: There is no Ł (U+0141) in font [Times New Roman.ttf]/OT:lang
+uage=dflt;mapping=tex-text;!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -1678,218 +1864,234 @@ Overfull \hbox (5.2936pt too wide) in paragraph at lines 48--48
 []
  []
 
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 [20
 
 
 ]
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [21]
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [22])
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22])
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no f in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no m in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no a in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no g in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no y in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no a in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no g in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no s in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no f in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no c in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no y in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no g in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no r in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no a in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no n in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no m in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no a in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no x in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no m in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no u in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no m in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no k in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no l in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no h in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no o in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no f (U+0066) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no m (U+006D) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no t (U+0074) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no a (U+0061) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no g (U+0067) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no y (U+0079) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no a (U+0061) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no g (U+0067) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no s (U+0073) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no f (U+0066) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no t (U+0074) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no c (U+0063) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no y (U+0079) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no g (U+0067) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no r (U+0072) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no a (U+0061) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no n (U+006E) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no t (U+0074) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no m (U+006D) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no a (U+0061) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no x (U+0078) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no m (U+006D) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no u (U+0075) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no m (U+006D) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no k (U+006B) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no e (U+0065) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no l (U+006C) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no i (U+0069) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no h (U+0068) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no o (U+006F) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no d (U+0064) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 2
 0.
 
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
 [23
+
 
 
 
@@ -1899,41 +2101,51 @@ Overfull \hbox (5.2936pt too wide) in paragraph at lines 140--140
 ]
  []
 
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
 [24]
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-) [25]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
- (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+Missing character: There is no p (U+0070) in font [B Nazanin.ttf]/OT:script=ara
+b;language=dflt;mapping=persian-tex-text;!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25] (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./chapter5.aux) (./chapter6.aux) (./dicfa2en.aux)
 (./dicen2fa.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 98D9D1797DD8EF165939B1E92E74B1C0;1599.
-
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
+(rerunfilecheck)             Checksum: 9771FE9AA8BA0FE2B42627232D46110A;6132.
  ) 
 Here is how much of TeX's memory you used:
- 28747 strings out of 479819
- 575147 string characters out of 5895847
- 917242 words of memory out of 5000000
- 45190 multiletter control sequences out of 15000+600000
- 541539 words of font info for 96 fonts, out of 8000000 for 9000
+ 29232 strings out of 476191
+ 604729 string characters out of 5812072
+ 994062 words of memory out of 5000000
+ 49298 multiletter control sequences out of 15000+600000
+ 478460 words of font info for 100 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,12n,85p,4831b,1147s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 104i,12n,97p,4831b,982s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on AUTthesis.pdf (32 pages).

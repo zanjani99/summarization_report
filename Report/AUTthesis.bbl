@@ -5,6 +5,17 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{Alomari2022DeepRA}
+Alomari, Ayham, Idris, Norisma~Binti, Sabri, Aznul Qalid~Md., and Alsmadi,
+  Izzat.
+\newblock Deep reinforcement and transfer learning for abstractive text
+  summarization: A review.
+\newblock {\em Comput. Speech Lang.}, 71:101276, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{andhale2016overview}
 Andhale, Narendra and Bewoor, Laxmi~A.
 \newblock An overview of text summarization techniques.
