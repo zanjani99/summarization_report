@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AUTthesis.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
+The style file: plain-fa.bst
+A level-1 auxiliary file: dicfa2en.aux
+A level-1 auxiliary file: dicen2fa.aux
+Database file #1: references.bib
+Warning--I didn't find a database entry for "ALOMARI2022101276"
+-- plain-fa.bst version 0.9 (2015/05/09) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+
+Done.
+You've used 16 entries,
+            2546 wiz_defined-function locations,
+            748 strings with 8747 characters,
+and the built_in function-call counts, 6775 in all, are:
+= -- 621
+> -- 306
+< -- 5
++ -- 126
+- -- 104
+* -- 433
+:= -- 1001
+add.period$ -- 52
+call.type$ -- 16
+change.case$ -- 100
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 251
+empty$ -- 464
+format.name$ -- 104
+if$ -- 1614
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 158
+newline$ -- 150
+num.names$ -- 32
+pop$ -- 102
+preamble$ -- 1
+purify$ -- 84
+quote$ -- 0
+skip$ -- 194
+stack$ -- 0
+substring$ -- 367
+swap$ -- 78
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 64
+warning$ -- 0
+while$ -- 55
+width$ -- 18
+write$ -- 234
+(There was 1 warning)

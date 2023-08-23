@@ -1,0 +1,66 @@
+%
+\chapter*{واژه‌نامه‌ی فارسی به انگلیسی}
+\pagestyle{style9}
+
+\addcontentsline{toc}{chapter}{واژه‌نامه‌ی فارسی به انگلیسی}
+%%%%%%
+\begin{multicols*}{2}
+	{\hfill\bf  \lr{A}}
+	\englishTOfarsi{Auto-regressive }{خودبازگشتی}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{B}}
+	\englishTOfarsi{Back propagate}{پس انتشار}
+	\englishTOfarsi{Benchmark  }{محک }
+	\englishTOfarsi{Bidirectional   }{دوسویه }
+	\vspace*{3mm}
+	{\hfill\bf  \lr{C}}
+	\englishTOfarsi{Cardinality}{کاردینالیته}
+	\englishTOfarsi{Configuration}{پیکره‌بندی}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{D}}
+	\englishTOfarsi{Decoder}{کدگشا}
+	\englishTOfarsi{Discriminator}{متمایزگر}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{E}}
+	\englishTOfarsi{Embedding}{تعبیه}
+	\englishTOfarsi{Encoder }{کدگذار }
+	\englishTOfarsi{Entity }{موجودیت}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{F}}
+	\englishTOfarsi{Factorized }{فاکتوریزه شده }
+	\englishTOfarsi{Feed-forward}{پیشخور}
+	\englishTOfarsi{Fine-tune }{تنظیم دقیق پارامترها}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{G}}
+	\englishTOfarsi{Generator}{مولد}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{J}}
+	\englishTOfarsi{Jointly conditioning }{شرطی‌سازی مشترک }
+	\vspace*{3mm}
+	{\hfill\bf  \lr{M}}
+	\englishTOfarsi{Masked language model (mlm) }{مدل زبانی ماسک شده }
+	\englishTOfarsi{Masking }{ماسک کردن }
+	\englishTOfarsi{Maximum likelihood estimation (mle) }{تخمین درست نمایی بیشینه }
+	\englishTOfarsi{Multi-granularity }{چند گرانروی  }
+	\vspace*{3mm}
+	{\hfill\bf  \lr{N}}
+	\englishTOfarsi{Natural language processing (nlp)}{پردازش زبان طبیعی}
+	\englishTOfarsi{Non-auto-regressive }{غیرخودبازگشتی}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{P}}
+	\englishTOfarsi{Parameterization}{پارامترسازی}
+	\englishTOfarsi{Permutation}{جایگشت}
+	\englishTOfarsi{Pretraining}{پیش آموزش}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{R}}
+	\englishTOfarsi{Representation }{دوسویه }
+	\vspace*{3mm}
+	{\hfill\bf  \lr{S}}
+	\englishTOfarsi{Spanbert}{اسپن‌برت}
+	\englishTOfarsi{Structbert}{برت ساختاری}
+	\vspace*{3mm}
+	{\hfill\bf  \lr{T}}
+	\englishTOfarsi{Trig-ram }{تریگرم }
+	\vspace*{3mm}
+	
+\end{multicols*}

@@ -1,0 +1,25 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
+\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}روش‌های مبتنی بر ساختار}{3}{chapter.2}%
+\contentsline {section}{\numberline {2-1}روش مبتنی بر درخت}{4}{section.2.1}%
+\contentsline {section}{\numberline {2-2}روش مبتنی بر قالب}{4}{section.2.2}%
+\contentsline {section}{\numberline {2-3}روش مبتنی بر هستان شناسی}{5}{section.2.3}%
+\contentsline {section}{\numberline {2-4}روش عبارت مقدمه و بدنه}{5}{section.2.4}%
+\contentsline {section}{\numberline {2-5}روش مبتنی بر گراف}{6}{section.2.5}%
+\contentsline {section}{\numberline {2-6}روش مبتنی بر قانون }{6}{section.2.6}%
+\contentsline {chapter}{\numberline {3}روش‌های مبتنی بر شبکه‌ی عصبی}{7}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش‌های مبتنی بر مدل کدگذار-کدگشا}{8}{section.3.1}%
+\contentsline {section}{\numberline {3-2}روش ‌های مبتنی بر مدل ترنسفورمر ها}{9}{section.3.2}%
+\contentsline {section}{\numberline {3-3}روش های مبتنی بر مدل‌های از پیش آموزش دیده}{10}{section.3.3}%
+\contentsline {chapter}{\numberline {4}روش های مبتنی بر یادگیری تقویتی}{11}{chapter.4}%
+\contentsline {chapter}{\numberline {5}نتایج}{15}{chapter.5}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی}{16}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{17}{appendix*.6}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{20}{appendix*.7}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{23}{appendix*.8}%
+\contentsfinish 
