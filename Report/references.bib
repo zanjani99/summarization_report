@@ -142,6 +142,59 @@
 	author = {Ayham Alomari and Norisma Idris and Aznul Qalid Md Sabri and Izzat Alsmadi}
 }
 
+@inproceedings{chen2018fast,
+	title={Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting},
+	author={Chen, Yen-Chun and Bansal, Mohit},
+	booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	pages={675--686},
+	year={2018}
+}
+@article{liu2020survey,
+	title={A survey on contextual embeddings},
+	author={Liu, Qi and Kusner, Matt J and Blunsom, Phil},
+	journal={arXiv preprint arXiv:2003.07278},
+	year={2020}
+}
+@inproceedings{lewis-etal-2020-bart,
+	title = "{BART}: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",
+	author = "Lewis, Mike  and
+	Liu, Yinhan  and
+	Goyal, Naman  and
+	Ghazvininejad, Marjan  and
+	Mohamed, Abdelrahman  and
+	Levy, Omer  and
+	Stoyanov, Veselin  and
+	Zettlemoyer, Luke",
+	booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+	month = jul,
+	year = "2020",
+	address = "Online",
+	publisher = "Association for Computational Linguistics",
+	url = "https://aclanthology.org/2020.acl-main.703",
+	doi = "10.18653/v1/2020.acl-main.703",
+	pages = "7871--7880",
+	abstract = "We present BART, a denoising autoencoder for pretraining sequence-to-sequence models. BART is trained by (1) corrupting text with an arbitrary noising function, and (2) learning a model to reconstruct the original text. It uses a standard Tranformer-based neural machine translation architecture which, despite its simplicity, can be seen as generalizing BERT (due to the bidirectional encoder), GPT (with the left-to-right decoder), and other recent pretraining schemes. We evaluate a number of noising approaches, finding the best performance by both randomly shuffling the order of sentences and using a novel in-filling scheme, where spans of text are replaced with a single mask token. BART is particularly effective when fine tuned for text generation but also works well for comprehension tasks. It matches the performance of RoBERTa on GLUE and SQuAD, and achieves new state-of-the-art results on a range of abstractive dialogue, question answering, and summarization tasks, with gains of up to 3.5 ROUGE. BART also provides a 1.1 BLEU increase over a back-translation system for machine translation, with only target language pretraining. We also replicate other pretraining schemes within the BART framework, to understand their effect on end-task performance.",
+}
+@article{yao2018dual,
+	title={Dual encoding for abstractive text summarization},
+	author={Yao, Kaichun and Zhang, Libo and Du, Dawei and Luo, Tiejian and Tao, Lili and Wu, Yanjun},
+	journal={IEEE transactions on cybernetics},
+	volume={50},
+	number={3},
+	pages={985--996},
+	year={2018},
+	publisher={IEEE}
+}
+
+@article{Ma2022TBERTSumTT,
+	title={T-BERTSum: Topic-Aware Text Summarization Based on BERT},
+	author={Tinghuai Ma and Qian Pan and Huan Rong and Yurong Qian and Yuan Tian and Najla Abdulrahman Al-Nabhan},
+	journal={IEEE Transactions on Computational Social Systems},
+	year={2022},
+	volume={9},
+	pages={879-890},
+	url={https://api.semanticscholar.org/CorpusID:237976609}
+}
 
 @inproceedings{variational,
 	title = "A Variational Hierarchical Model for Neural Cross-Lingual Summarization",
@@ -187,21 +240,61 @@
 	url={https://api.semanticscholar.org/CorpusID:3535369}
 }
 
-
-@article{Alomari2022DeepRA,
-	title={Deep reinforcement and transfer learning for abstractive text summarization: A review},
-	author={Ayham Alomari and Norisma Binti Idris and Aznul Qalid Md. Sabri and Izzat Alsmadi},
-	journal={Comput. Speech Lang.},
-	year={2022},
-	volume={71},
-	pages={101276},
-	url={https://api.semanticscholar.org/CorpusID:238208308}
+@inproceedings{reformer,
+	title={Reformer: The Efficient Transformer},
+	author={Kitaev, Nikita and Kaiser, Lukasz and Levskaya, Anselm},
+	booktitle={International Conference on Learning Representations},
+	year={2019}
 }
 
 
+@article{zaheer2020big,
+	title={Big bird: Transformers for longer sequences},
+	author={Zaheer, Manzil and Guruganesh, Guru and Dubey, Kumar Avinava and Ainslie, Joshua and Alberti, Chris and Ontanon, Santiago and Pham, Philip and Ravula, Anirudh and Wang, Qifan and Yang, Li and others},
+	journal={Advances in neural information processing systems},
+	volume={33},
+	pages={17283--17297},
+	year={2020}
+}
 
+@misc{child2019generating,
+	title={Generating Long Sequences with Sparse Transformers}, 
+	author={Rewon Child and Scott Gray and Alec Radford and Ilya Sutskever},
+	year={2019},
+	eprint={1904.10509},
+	archivePrefix={arXiv},
+	primaryClass={cs.LG}
+}
+@inproceedings{xiao2020systematically,
+	title={Systematically Exploring Redundancy Reduction in Summarizing Long Documents},
+	author={Xiao, Wen and Carenini, Giuseppe},
+	booktitle={Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing},
+	pages={516--528},
+	year={2020}
+}
+@inproceedings{pilault2020extractive,
+	title={On extractive and abstractive neural document summarization with transformer language models},
+	author={Pilault, Jonathan and Li, Raymond and Subramanian, Sandeep and Pal, Christopher},
+	booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+	pages={9308--9319},
+	year={2020}
+}
+@inproceedings{pang2023long,
+	title={Long Document Summarization with Top-down and Bottom-up Inference},
+	author={Pang, Bo and Nijkamp, Erik and Kry{\'s}ci{\'n}ski, Wojciech and Savarese, Silvio and Zhou, Yingbo and Xiong, Caiming},
+	booktitle={Findings of the Association for Computational Linguistics: EACL 2023},
+	pages={1237--1254},
+	year={2023}
+}
 
-
+@article{Xiong2022AdaptingPT,
+	title={Adapting Pretrained Text-to-Text Models for Long Text Sequences},
+	author={Wenhan Xiong and Anchit Gupta and Shubham Toshniwal and Yashar Mehdad and Wen-tau Yih},
+	journal={ArXiv},
+	year={2022},
+	volume={abs/2209.10052},
+	url={https://api.semanticscholar.org/CorpusID:252407634}
+}
 
 
 

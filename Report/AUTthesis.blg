@@ -1,64 +1,58 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: AUTthesis.aux
 A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
-White space in argument---line 8 of file chapter4.aux
- : \citation{Parnell2022AMC
- :                          }
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: chapter5.aux
 A level-1 auxiliary file: chapter6.aux
 The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
-Warning--I didn't find a database entry for "ALOMARI2022101276"
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 17 entries,
+You've used 29 entries,
             2546 wiz_defined-function locations,
-            755 strings with 8975 characters,
-and the built_in function-call counts, 7177 in all, are:
-= -- 655
-> -- 329
-< -- 5
-+ -- 135
-- -- 112
-* -- 463
-:= -- 1066
-add.period$ -- 55
-call.type$ -- 17
-change.case$ -- 107
+            813 strings with 11744 characters,
+and the built_in function-call counts, 13157 in all, are:
+= -- 1179
+> -- 665
+< -- 10
++ -- 268
+- -- 232
+* -- 869
+:= -- 1942
+add.period$ -- 91
+call.type$ -- 29
+change.case$ -- 202
 chr.to.int$ -- 0
-cite$ -- 17
-duplicate$ -- 262
-empty$ -- 489
-format.name$ -- 112
-if$ -- 1705
+cite$ -- 29
+duplicate$ -- 457
+empty$ -- 868
+format.name$ -- 232
+if$ -- 3127
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 168
-newline$ -- 159
-num.names$ -- 34
-pop$ -- 107
+int.to.str$ -- 29
+missing$ -- 310
+newline$ -- 266
+num.names$ -- 58
+pop$ -- 217
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 173
 quote$ -- 0
-skip$ -- 201
+skip$ -- 362
 stack$ -- 0
-substring$ -- 390
-swap$ -- 79
-text.length$ -- 5
+substring$ -- 718
+swap$ -- 147
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 68
+type$ -- 116
 warning$ -- 0
-while$ -- 58
-width$ -- 19
-write$ -- 248
-(There was 1 error message)
+while$ -- 102
+width$ -- 31
+write$ -- 413

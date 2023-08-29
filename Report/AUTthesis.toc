@@ -4,22 +4,26 @@
 \contentsline {chapter}{فهرست جداول}{د}{section*.3}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{فهرست نمادها}{ه}{section*.3}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}روش‌های مبتنی بر ساختار}{3}{chapter.2}%
 \contentsline {section}{\numberline {2-1}روش مبتنی بر درخت}{4}{section.2.1}%
 \contentsline {section}{\numberline {2-2}روش مبتنی بر قالب}{4}{section.2.2}%
 \contentsline {section}{\numberline {2-3}روش مبتنی بر هستان شناسی}{5}{section.2.3}%
 \contentsline {section}{\numberline {2-4}روش عبارت مقدمه و بدنه}{5}{section.2.4}%
-\contentsline {section}{\numberline {2-5}روش مبتنی بر گراف}{6}{section.2.5}%
+\contentsline {section}{\numberline {2-5}روش مبتنی بر گراف}{5}{section.2.5}%
 \contentsline {section}{\numberline {2-6}روش مبتنی بر قانون }{6}{section.2.6}%
 \contentsline {chapter}{\numberline {3}روش‌های مبتنی بر شبکه‌ی عصبی}{7}{chapter.3}%
 \contentsline {section}{\numberline {3-1}روش‌های مبتنی بر مدل کدگذار-کدگشا}{8}{section.3.1}%
-\contentsline {section}{\numberline {3-2}روش ‌های مبتنی بر مدل ترنسفورمر ها}{9}{section.3.2}%
-\contentsline {section}{\numberline {3-3}روش های مبتنی بر مدل‌های از پیش آموزش دیده}{10}{section.3.3}%
-\contentsline {chapter}{\numberline {4}روش های مبتنی بر یادگیری تقویتی}{11}{chapter.4}%
-\contentsline {chapter}{\numberline {5}نتایج}{15}{chapter.5}%
-\contentsline {chapter}{\numberline {6}جمع‌بندی}{16}{chapter.6}%
-\contentsline {chapter}{منابع و مراجع}{17}{appendix*.6}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{20}{appendix*.7}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{23}{appendix*.8}%
+\contentsline {section}{\numberline {3-2}روش ‌های مبتنی بر مدل ترنسفورمر ها}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}ایده های ارایه شده بهبود خلاصه سازی متون طولانی }{17}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {4}روش های مبتنی بر یادگیری تقویتی}{22}{chapter.4}%
+\contentsline {section}{\numberline {4-1}یادگیری تقویتی برای حل مسائل عمیق توالی به دنباله}{23}{section.4.1}%
+\contentsline {section}{\numberline {4-2}یادگیری تقویتی برای ترکیب خلاصه های استخراجی و انتزاعی}{23}{section.4.2}%
+\contentsline {section}{\numberline {4-3}یادگیری تقویتی برای ایجاد معیارها و پاداش های جدید}{24}{section.4.3}%
+\contentsline {chapter}{\numberline {5}نتایج}{25}{chapter.5}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی}{26}{chapter.6}%
+\contentsline {chapter}{منابع و مراجع}{27}{appendix*.14}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{32}{appendix*.15}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{35}{appendix*.16}%
 \contentsfinish 

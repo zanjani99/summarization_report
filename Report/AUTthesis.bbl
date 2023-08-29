@@ -5,12 +5,11 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{Alomari2022DeepRA}
-Alomari, Ayham, Idris, Norisma~Binti, Sabri, Aznul Qalid~Md., and Alsmadi,
-  Izzat.
+\bibitem{ALOMARI}
+Alomari, Ayham, Idris, Norisma, Sabri, Aznul Qalid~Md, and Alsmadi, Izzat.
 \newblock Deep reinforcement and transfer learning for abstractive text
   summarization: A review.
-\newblock {\em Comput. Speech Lang.}, 71:101276, 2022.
+\newblock {\em Computer Speech and Language}, 71:101276, 2022.
 
 \end{LTRbibitems}
 
@@ -21,6 +20,25 @@ Andhale, Narendra and Bewoor, Laxmi~A.
 \newblock An overview of text summarization techniques.
 \newblock In {\em 2016 international conference on computing communication
   control and automation (ICCUBEA)}, pages 1--7. IEEE, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{chen2018fast}
+Chen, Yen-Chun and Bansal, Mohit.
+\newblock Fast abstractive summarization with reinforce-selected sentence
+  rewriting.
+\newblock In {\em Proceedings of the 56th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)}, pages 675--686, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{child2019generating}
+Child, Rewon, Gray, Scott, Radford, Alec, and Sutskever, Ilya.
+\newblock Generating long sequences with sparse transformers, 2019.
 
 \end{LTRbibitems}
 
@@ -84,11 +102,33 @@ Keneshloo, Yaser, Ramakrishnan, Naren, and Reddy, Chandan~K.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{reformer}
+Kitaev, Nikita, Kaiser, Lukasz, and Levskaya, Anselm.
+\newblock Reformer: The efficient transformer.
+\newblock In {\em International Conference on Learning Representations}, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{lee2005fuzzy}
 Lee, Chang-Shing, Jian, Zhi-Wei, and Huang, Lin-Kai.
 \newblock A fuzzy ontology and its application to news summarization.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B
   (Cybernetics)}, 35(5):859--880, 2005.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{lewis-etal-2020-bart}
+Lewis, Mike, Liu, Yinhan, Goyal, Naman, Ghazvininejad, Marjan, Mohamed,
+  Abdelrahman, Levy, Omer, Stoyanov, Veselin, and Zettlemoyer, Luke.
+\newblock {BART}: Denoising sequence-to-sequence pre-training for natural
+  language generation, translation, and comprehension.
+\newblock In {\em Proceedings of the 58th Annual Meeting of the Association for
+  Computational Linguistics}, pages 7871--7880, Online, July 2020. Association
+  for Computational Linguistics.
 
 \end{LTRbibitems}
 
@@ -107,10 +147,30 @@ Liang, Yunlong, Meng, Fandong, Zhou, Chulun, Xu, Jinan, Chen, Yufeng, Su,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{liu2020survey}
+Liu, Qi, Kusner, Matt~J, and Blunsom, Phil.
+\newblock A survey on contextual embeddings.
+\newblock {\em arXiv preprint arXiv:2003.07278}, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{luhn1958automatic}
 Luhn, Hans~Peter.
 \newblock The automatic creation of literature abstracts.
 \newblock {\em IBM Journal of research and development}, 2(2):159--165, 1958.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Ma2022TBERTSumTT}
+Ma, Tinghuai, Pan, Qian, Rong, Huan, Qian, Yurong, Tian, Yuan, and Al-Nabhan,
+  Najla~Abdulrahman.
+\newblock T-bertsum: Topic-aware text summarization based on bert.
+\newblock {\em IEEE Transactions on Computational Social Systems}, 9:879--890,
+  2022.
 
 \end{LTRbibitems}
 
@@ -137,12 +197,34 @@ Moratanch, N. and Chitrakala, S.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{pang2023long}
+Pang, Bo, Nijkamp, Erik, Kry{\'s}ci{\'n}ski, Wojciech, Savarese, Silvio, Zhou,
+  Yingbo, and Xiong, Caiming.
+\newblock Long document summarization with top-down and bottom-up inference.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EACL 2023}, pages 1237--1254, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Parnell2022AMC}
 Parnell, Jacob, Unanue, Inigo~Jauregi, and Piccardi, Massimo.
 \newblock A multi-document coverage reward for relaxed multi-document
   summarization.
 \newblock In {\em Annual Meeting of the Association for Computational
   Linguistics}, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{pilault2020extractive}
+Pilault, Jonathan, Li, Raymond, Subramanian, Sandeep, and Pal, Christopher.
+\newblock On extractive and abstractive neural document summarization with
+  transformer language models.
+\newblock In {\em Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 9308--9319, 2020.
 
 \end{LTRbibitems}
 
@@ -163,6 +245,49 @@ Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion,
   Gomez, Aidan~N, Kaiser, {\L}ukasz, and Polosukhin, Illia.
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{xiao2020systematically}
+Xiao, Wen and Carenini, Giuseppe.
+\newblock Systematically exploring redundancy reduction in summarizing long
+  documents.
+\newblock In {\em Proceedings of the 1st Conference of the Asia-Pacific Chapter
+  of the Association for Computational Linguistics and the 10th International
+  Joint Conference on Natural Language Processing}, pages 516--528, 2020.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Xiong2022AdaptingPT}
+Xiong, Wenhan, Gupta, Anchit, Toshniwal, Shubham, Mehdad, Yashar, and tau Yih,
+  Wen.
+\newblock Adapting pretrained text-to-text models for long text sequences.
+\newblock {\em ArXiv}, abs/2209.10052, 2022.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{yao2018dual}
+Yao, Kaichun, Zhang, Libo, Du, Dawei, Luo, Tiejian, Tao, Lili, and Wu, Yanjun.
+\newblock Dual encoding for abstractive text summarization.
+\newblock {\em IEEE transactions on cybernetics}, 50(3):985--996, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{zaheer2020big}
+Zaheer, Manzil, Guruganesh, Guru, Dubey, Kumar~Avinava, Ainslie, Joshua,
+  Alberti, Chris, Ontanon, Santiago, Pham, Philip, Ravula, Anirudh, Wang,
+  Qifan, Yang, Li, et~al.
+\newblock Big bird: Transformers for longer sequences.
+\newblock {\em Advances in neural information processing systems},
+  33:17283--17297, 2020.
 
 \end{LTRbibitems}
 
