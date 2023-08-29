@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.8.2)  29 AUG 2023 09:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.8.2)  29 AUG 2023 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1411,7 +1411,11 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 
  [2
 
-] (./AUTthesis.lof)
+] (./AUTthesis.lof
+
+LaTeX Warning: Citation `pang2023long' on page ج undefined on input line 15.
+
+)
 \tf@lof=\write7
 \openout7 = `AUTthesis.lof'.
 
@@ -1423,8 +1427,7 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 
  [4
 
-])
-(./list-of-symbols.tex
+]) (./list-of-symbols.tex
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 7.19998pt on input line 13.
 
@@ -1552,50 +1555,116 @@ LaTeX Warning: Marginpar on page 8 moved.
 File: encoder_decoder.png Graphic file (type bmp)
 <encoder_decoder.png>
 
-Overfull \hbox (25.54077pt too wide) in paragraph at lines 21--22
+Overfull \hbox (25.54077pt too wide) in paragraph at lines 22--23
  [][][][][] 
  []
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 26.
+(Font)              scaled to size 13.13995pt on input line 27.
 [8]
 File: dualـencoder.png Graphic file (type bmp)
 <dualـencoder.png>
-
-Overfull \hbox (2.33441pt too wide) in paragraph at lines 66--71
-[][]\TU/BNazanin.ttf(0)/b/n/12 یکی از مدل‌های ارایه شده براساس مدل کدگذاری دوگا
-نه مدل سلسله مراتبی متغیر برای خلاصه‌سازی[]
- []
-
 File: Variational Hierarchical Model.png Graphic file (type bmp)
 <Variational Hierarchical Model.png>
 
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] [10]
+[9]
 File: tbertsum_framework.png Graphic file (type bmp)
 <tbertsum_framework.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: TbertSum_embedding.png Graphic file (type bmp)
 <TbertSum_embedding.png>
 
-Overfull \hbox (41.75806pt too wide) in paragraph at lines 134--135
+Overfull \hbox (41.75806pt too wide) in paragraph at lines 112--113
  [][][][][] 
  []
 
+[10]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
+e=dflt;mapping=persian-tex-text;!
+Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
+e=dflt;mapping=persian-tex-text;!
+Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
+e=dflt;mapping=persian-tex-text;!
+
+Overfull \hbox (2.91913pt too wide) in paragraph at lines 128--128
+[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
+ []
+
+
+Overfull \hbox (1.18945pt too wide) in paragraph at lines 128--128
+[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
+ []
+
+
+Overfull \hbox (2.91913pt too wide) in paragraph at lines 128--128
+[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
+ []
+
+
+Overfull \hbox (1.18945pt too wide) in paragraph at lines 128--128
+[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
+ []
+
+Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
+e=dflt;mapping=persian-tex-text;!
+
+Overfull \hbox (2.91913pt too wide) in paragraph at lines 128--128
+[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
+ []
+
+
+Overfull \hbox (1.18945pt too wide) in paragraph at lines 128--128
+[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
+ []
+
+
+Overfull \hbox (2.91913pt too wide) in paragraph at lines 128--128
+[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
+ []
+
+
+Overfull \hbox (1.18945pt too wide) in paragraph at lines 128--128
+[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
+ []
+
+[11]
 File: tbertsum_transformer.png Graphic file (type bmp)
 <tbertsum_transformer.png>
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[11]
+ [12]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Marginpar on page 13 moved.
 
-[12] [13]
+File: two-stage model.png Graphic file (type bmp)
+<two-stage model.png>
+
+Overfull \hbox (44.00685pt too wide) in paragraph at lines 149--150
+ [][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+[][]
+ []
+
+[13]
+Overfull \hbox (17.5101pt too wide) in paragraph at lines 183--184
+[][]\TU/BNazanin.ttf(0)/b/n/12 آموزش مشارکتی: آموزش مشارکتی برای آموزش متناوب م
+اژول خلاصه‌سازی بخش و ماژول خلاصه‌سازی[]
+ []
+
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
@@ -1607,7 +1676,6 @@ e=dflt;mapping=persian-tex-text;!
 File: bart.png Graphic file (type bmp)
 <bart.png>
 
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
@@ -1634,16 +1702,15 @@ Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dfl
 ;mapping=tex-text;!
 Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
-[14]
+[14] [15]
 File: pegasus.png Graphic file (type bmp)
 <pegasus.png>
+File: Mdot.png Graphic file (type bmp)
+<Mdot.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[15]
-File: Mdot.png Graphic file (type bmp)
-<Mdot.png>
 Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
 Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
@@ -1676,7 +1743,7 @@ Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [16]
+[16]
 Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
 Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
@@ -1721,23 +1788,33 @@ Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
  [17]
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+
+
+LaTeX Warning: Citation `pang2023long' on page 18 undefined on input line 348.
+
 File: top_down.png Graphic file (type bmp)
 <top_down.png>
+
+LaTeX Warning: Citation `pang2023long' on page 18 undefined on input line 355.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [18]
-Overfull \hbox (2.7727pt too wide) in paragraph at lines 380--382
+[18]
+Overfull \hbox (2.7727pt too wide) in paragraph at lines 385--387
 [][]\TU/BNazanin.ttf(0)/b/n/12 این روش می‌تواند از مدل‌های خلاصه‌سازی مختلف از 
 جمله شبکه‌ی عصبی بازگشتی و ترنسفورمرها[]
  []
@@ -1746,14 +1823,10 @@ Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[19]
+[19] [20]
 File: pooling_attention.png Graphic file (type bmp)
 <pooling_attention.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [20] [21]
+) [21]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1825,15 +1898,10 @@ oeder, Geoffrey, and Duvenaud,[]
 [27
 
 
-] [28]
-Missing character: There is no ́ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ́ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
- [29]
+] [28] [29]
 Missing character: There is no Ł in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
- [30]) [31]
+) [30]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -1846,7 +1914,7 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[32
+[31
 
 
 ]
@@ -1854,12 +1922,12 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [33]
+ [32]
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [34])
+ [33])
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -1872,7 +1940,7 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[35
+[34
 
 
 
@@ -1886,12 +1954,12 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[36]
+[35]
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-) [37]
+) [36]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
@@ -1900,20 +1968,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7CC3145938160798CA7A1EE6738E059B;2108.
+(rerunfilecheck)             Checksum: 1EDF325E65F6E564ED3EAC1302F20508;2114.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 29005 strings out of 479819
- 579793 string characters out of 5895847
- 927243 words of memory out of 5000000
- 45439 multiletter control sequences out of 15000+600000
+ 29032 strings out of 479819
+ 580395 string characters out of 5895847
+ 930243 words of memory out of 5000000
+ 45465 multiletter control sequences out of 15000+600000
  541539 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,12n,85p,4831b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (44 pages).
+Output written on AUTthesis.pdf (43 pages).

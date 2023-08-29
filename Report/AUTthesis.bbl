@@ -197,17 +197,6 @@ Moratanch, N. and Chitrakala, S.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{pang2023long}
-Pang, Bo, Nijkamp, Erik, Kry{\'s}ci{\'n}ski, Wojciech, Savarese, Silvio, Zhou,
-  Yingbo, and Xiong, Caiming.
-\newblock Long document summarization with top-down and bottom-up inference.
-\newblock In {\em Findings of the Association for Computational Linguistics:
-  EACL 2023}, pages 1237--1254, 2023.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{Parnell2022AMC}
 Parnell, Jacob, Unanue, Inigo~Jauregi, and Piccardi, Massimo.
 \newblock A multi-document coverage reward for relaxed multi-document
@@ -240,23 +229,22 @@ Sherborne, Tom and Lapata, Mirella.
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{vaswani2017attention}
-Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion,
-  Gomez, Aidan~N, Kaiser, {\L}ukasz, and Polosukhin, Illia.
-\newblock Attention is all you need.
-\newblock {\em Advances in neural information processing systems}, 30, 2017.
+\bibitem{twostage}
+Su, Ming-Hsiang, Wu, Chung-Hsien, and Cheng, Hao-Tse.
+\newblock A two-stage transformer-based approach for variable-length
+  abstractive summarization.
+\newblock {\em IEEE/ACM Transactions on Audio, Speech, and Language
+  Processing}, 28:2061--2072, 2020.
 
 \end{LTRbibitems}
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{xiao2020systematically}
-Xiao, Wen and Carenini, Giuseppe.
-\newblock Systematically exploring redundancy reduction in summarizing long
-  documents.
-\newblock In {\em Proceedings of the 1st Conference of the Asia-Pacific Chapter
-  of the Association for Computational Linguistics and the 10th International
-  Joint Conference on Natural Language Processing}, pages 516--528, 2020.
+\bibitem{vaswani2017attention}
+Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion,
+  Gomez, Aidan~N, Kaiser, {\L}ukasz, and Polosukhin, Illia.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
 
 \end{LTRbibitems}
 

@@ -11,48 +11,50 @@ The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "pang2023long"
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 29 entries,
+You've used 28 entries,
             2546 wiz_defined-function locations,
-            813 strings with 11744 characters,
-and the built_in function-call counts, 13157 in all, are:
-= -- 1179
-> -- 665
-< -- 10
-+ -- 268
-- -- 232
-* -- 869
-:= -- 1942
-add.period$ -- 91
-call.type$ -- 29
-change.case$ -- 202
+            810 strings with 11383 characters,
+and the built_in function-call counts, 12413 in all, are:
+= -- 1108
+> -- 637
+< -- 8
++ -- 258
+- -- 222
+* -- 831
+:= -- 1855
+add.period$ -- 88
+call.type$ -- 28
+change.case$ -- 194
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 457
-empty$ -- 868
-format.name$ -- 232
-if$ -- 3127
+cite$ -- 28
+duplicate$ -- 420
+empty$ -- 811
+format.name$ -- 222
+if$ -- 2933
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 310
-newline$ -- 266
-num.names$ -- 58
-pop$ -- 217
+int.to.str$ -- 28
+missing$ -- 295
+newline$ -- 257
+num.names$ -- 56
+pop$ -- 201
 preamble$ -- 1
-purify$ -- 173
+purify$ -- 166
 quote$ -- 0
-skip$ -- 362
+skip$ -- 325
 stack$ -- 0
-substring$ -- 718
-swap$ -- 147
-text.length$ -- 10
+substring$ -- 669
+swap$ -- 124
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 116
+type$ -- 112
 warning$ -- 0
-while$ -- 102
-width$ -- 31
-write$ -- 413
+while$ -- 95
+width$ -- 30
+write$ -- 399
+(There was 1 warning)
