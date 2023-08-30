@@ -10,48 +10,51 @@ The style file: plain-fa.bst
 A level-1 auxiliary file: dicfa2en.aux
 A level-1 auxiliary file: dicen2fa.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "ALOMARI"
 -- plain-fa.bst version 0.9 (2015/05/09) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--can't use both volume and number fields in liu2018generative
 
 Done.
-You've used 34 entries,
+You've used 35 entries,
             2546 wiz_defined-function locations,
-            843 strings with 13048 characters,
-and the built_in function-call counts, 15869 in all, are:
-= -- 1441
-> -- 795
-< -- 13
-+ -- 320
-- -- 278
-* -- 1066
-:= -- 2332
-add.period$ -- 110
-call.type$ -- 34
-change.case$ -- 240
+            850 strings with 13292 characters,
+and the built_in function-call counts, 16327 in all, are:
+= -- 1473
+> -- 828
+< -- 14
++ -- 333
+- -- 290
+* -- 1102
+:= -- 2402
+add.period$ -- 113
+call.type$ -- 35
+change.case$ -- 249
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 550
-empty$ -- 1041
-format.name$ -- 278
-if$ -- 3783
+cite$ -- 36
+duplicate$ -- 564
+empty$ -- 1069
+format.name$ -- 290
+if$ -- 3890
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 369
-newline$ -- 311
-num.names$ -- 68
-pop$ -- 256
+int.to.str$ -- 35
+missing$ -- 383
+newline$ -- 320
+num.names$ -- 70
+pop$ -- 267
 preamble$ -- 1
-purify$ -- 206
+purify$ -- 214
 quote$ -- 0
-skip$ -- 430
+skip$ -- 438
 stack$ -- 0
-substring$ -- 896
-swap$ -- 180
-text.length$ -- 13
+substring$ -- 901
+swap$ -- 184
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 4
-type$ -- 136
-warning$ -- 0
-while$ -- 123
-width$ -- 36
-write$ -- 491
+type$ -- 140
+warning$ -- 1
+while$ -- 125
+width$ -- 37
+write$ -- 505
+(There were 2 warnings)

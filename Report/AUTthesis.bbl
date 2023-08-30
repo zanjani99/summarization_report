@@ -5,26 +5,6 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{ALOMARI}
-Alomari, Ayham, Idris, Norisma, Sabri, Aznul Qalid~Md, and Alsmadi, Izzat.
-\newblock Deep reinforcement and transfer learning for abstractive text
-  summarization: A review.
-\newblock {\em Computer Speech and Language}, 71:101276, 2022.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
-\bibitem{andhale2016overview}
-Andhale, Narendra and Bewoor, Laxmi~A.
-\newblock An overview of text summarization techniques.
-\newblock In {\em 2016 international conference on computing communication
-  control and automation (ICCUBEA)}, pages 1--7. IEEE, 2016.
-
-\end{LTRbibitems}
-
-\begin{LTRbibitems}
-\resetlatinfont
 \bibitem{chen2018fast}
 Chen, Yen-Chun and Bansal, Mohit.
 \newblock Fast abstractive summarization with reinforce-selected sentence
@@ -88,6 +68,16 @@ Grathwohl, Will, Choi, Dami, Wu, Yuhuai, Roeder, Geoffrey, and Duvenaud,
 Hochreiter, Sepp and Schmidhuber, J{\"u}rgen.
 \newblock Long short-term memory.
 \newblock {\em Neural computation}, 9(8):1735--1780, 1997.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{RL_survey}
+Idris, Norisma, Alomari, Ayham, Sabri, Aznul Qalid~Md, and Alsmadi, Izzat.
+\newblock Deep reinforcement and transfer learning for abstractive text
+  summarization: A review.
+\newblock {\em Computer Speech and Language}, 71:101276, 2022.
 
 \end{LTRbibitems}
 
@@ -169,6 +159,16 @@ Liang, Yunlong, Meng, Fandong, Zhou, Chulun, Xu, Jinan, Chen, Yufeng, Su,
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{liu2018generative}
+Liu, Linqing, Lu, Yao, Yang, Min, Qu, Qiang, Zhu, Jia, and Li, Hongyan.
+\newblock Generative adversarial network for abstractive text summarization.
+\newblock In {\em Proceedings of the AAAI conference on artificial
+  intelligence}, volume~32, 2018.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{liu2020survey}
 Liu, Qi, Kusner, Matt~J, and Blunsom, Phil.
 \newblock A survey on contextual embeddings.
@@ -214,6 +214,16 @@ Moratanch, N. and Chitrakala, S.
 \newblock A survey on abstractive text summarization.
 \newblock In {\em 2016 International Conference on Circuit, Power and Computing
   Technologies (ICCPCT)}, pages 1--7, 2016.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{andhale2016overview}
+Narendra, Andhale and Bewoor, Laxmi~A.
+\newblock An overview of text summarization techniques.
+\newblock In {\em 2016 international conference on computing communication
+  control and automation (ICCUBEA)}, pages 1--7. IEEE, 2016.
 
 \end{LTRbibitems}
 

@@ -2,7 +2,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces معماری پایه‌‌ی مدل کدگذار-کدگشا\cite {ALOMARI}}}{8}{figure.3.1}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces معماری پایه‌‌ی مدل کدگذار-کدگشا\cite {RL_survey}}}{8}{figure.3.1}%
 \contentsline {figure}{\numberline {3-2}{\ignorespaces معماری پایه‌‌ی مدل دوگانه‌ی کدگذار \cite {yao2018dual}}}{9}{figure.3.2}%
 \contentsline {figure}{\numberline {3-3}{\ignorespaces معماری پایه‌‌ی مدل سلسله مراتبی متغیر برای خلاصه‌سازی متقابل زبانی\cite {variational}}}{10}{figure.3.3}%
 \contentsline {figure}{\numberline {3-4}{\ignorespaces معماری مدل تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{11}{figure.3.4}%
@@ -15,7 +15,7 @@
 \contentsline {figure}{\numberline {3-11}{\ignorespaces معماری مدل ترنسفورمر از بالا به پایین\cite {pang2023long}}}{19}{figure.3.11}%
 \contentsline {figure}{\numberline {3-12}{\ignorespaces لایه خودتوجهی تقویت شده ادغام شده \cite {Xiong2022AdaptingPT}}}{21}{figure.3.12}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces یک نمونه از نمودار منحنی بازیابی بر اساس طول. \cite {shapira-etal-2021-extending}}}{27}{figure.4.1}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces یک نمونه از نمودار منحنی بازیابی بر اساس طول \cite {shapira-etal-2021-extending}}}{27}{figure.4.1}%
 \contentsline {figure}{\numberline {4-2}{\ignorespaces معماری مدل ام‌سام \cite {shapira-etal-2022-interactive}}}{28}{figure.4.2}%
 \addvspace {10\p@ }
 \contentsfinish 
