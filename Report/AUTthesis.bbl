@@ -62,6 +62,17 @@ Elman, Jeffrey~L.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{fan-etal-2018-controllable}
+Fan, Angela, Grangier, David, and Auli, Michael.
+\newblock Controllable abstractive summarization.
+\newblock In {\em Proceedings of the 2nd Workshop on Neural Machine Translation
+  and Generation}, pages 45--54, Melbourne, Australia, July 2018. Association
+  for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Grathwohl2017BackpropagationTT}
 Grathwohl, Will, Choi, Dami, Wu, Yuhuai, Roeder, Geoffrey, and Duvenaud,
   David~Kristjanson.
@@ -106,6 +117,17 @@ Keneshloo, Yaser, Ramakrishnan, Naren, and Reddy, Chandan~K.
 Kitaev, Nikita, Kaiser, Lukasz, and Levskaya, Anselm.
 \newblock Reformer: The efficient transformer.
 \newblock In {\em International Conference on Learning Representations}, 2019.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{kryscinski-etal-2018-improving}
+Kryscinski, Wojciech, Paulus, Romain, Xiong, Caiming, and Socher, Richard.
+\newblock Improving abstraction in text summarization.
+\newblock In {\em Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing}, pages 1808--1817, Brussels, Belgium,
+  October-November 2018. Association for Computational Linguistics.
 
 \end{LTRbibitems}
 
@@ -197,6 +219,17 @@ Moratanch, N. and Chitrakala, S.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{pang2023long}
+Pang, Bo, Nijkamp, Erik, Kryscin?ski, Wojciech, Savarese, Silvio, Zhou, Yingbo,
+  and Xiong, Caiming.
+\newblock Long document summarization with top-down and bottom-up inference.
+\newblock In {\em Findings of the Association for Computational Linguistics:
+  EACL 2023}, pages 1237--1254, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{Parnell2022AMC}
 Parnell, Jacob, Unanue, Inigo~Jauregi, and Piccardi, Massimo.
 \newblock A multi-document coverage reward for relaxed multi-document
@@ -219,11 +252,50 @@ Pilault, Jonathan, Li, Raymond, Subramanian, Sandeep, and Pal, Christopher.
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{shapira-etal-2022-interactive}
+Shapira, Ori, Pasunuru, Ramakanth, Bansal, Mohit, Dagan, Ido, and Amsterdamer,
+  Yael.
+\newblock Interactive query-assisted summarization via deep reinforcement
+  learning.
+\newblock In {\em Proceedings of the 2022 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 2551--2568, Seattle, United States, July 2022.
+  Association for Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{shapira-etal-2021-extending}
+Shapira, Ori, Pasunuru, Ramakanth, Ronen, Hadar, Bansal, Mohit, Amsterdamer,
+  Yael, and Dagan, Ido.
+\newblock Extending multi-document summarization evaluation to the interactive
+  setting.
+\newblock In {\em Proceedings of the 2021 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 657--677, Online, June 2021. Association for
+  Computational Linguistics.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{sherborne2023meta}
 Sherborne, Tom and Lapata, Mirella.
 \newblock Meta-learning a cross-lingual manifold for semantic parsing.
 \newblock {\em Transactions of the Association for Computational Linguistics},
   11:49--67, 2023.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{PoBRL}
+Su, DiJia, Su, Difei, Mulvey, John~M., and Poor, H.Vincent.
+\newblock Optimizing multidocument summarization by blending reinforcement
+  learning policies.
+\newblock {\em IEEE Transactions on Artificial Intelligence}, 4(3):416--427,
+  2023.
 
 \end{LTRbibitems}
 
@@ -242,7 +314,7 @@ Su, Ming-Hsiang, Wu, Chung-Hsien, and Cheng, Hao-Tse.
 \resetlatinfont
 \bibitem{vaswani2017attention}
 Vaswani, Ashish, Shazeer, Noam, Parmar, Niki, Uszkoreit, Jakob, Jones, Llion,
-  Gomez, Aidan~N, Kaiser, {\L}ukasz, and Polosukhin, Illia.
+  Gomez, Aidan~N, Kaiser, Lukasz, and Polosukhin, Illia.
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30, 2017.
 

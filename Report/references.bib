@@ -24,7 +24,7 @@
 }
 @article{vaswani2017attention,
 	title={Attention is all you need},
-	author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+	author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, Lukasz and Polosukhin, Illia},
 	journal={Advances in neural information processing systems},
 	volume={30},
 	year={2017}
@@ -130,17 +130,6 @@
 	doi={10.1109/ICCPCT.2016.7530193}}
 
 
-@article{ALOMARI,
-	title = {Deep reinforcement and transfer learning for abstractive text summarization: A review},
-	journal = {Computer Speech and Language},
-	volume = {71},
-	pages = {101276},
-	year = {2022},
-	issn = {0885-2308},
-	doi = {https://doi.org/10.1016/j.csl.2021.101276},
-	url = {https://www.sciencedirect.com/science/article/pii/S0885230821000796},
-	author = {Ayham Alomari and Norisma Idris and Aznul Qalid Md Sabri and Izzat Alsmadi}
-}
 
 @inproceedings{chen2018fast,
 	title={Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting},
@@ -279,13 +268,7 @@
 	pages={9308--9319},
 	year={2020}
 }
-@inproceedings{pang\frac{num}{den}2023long,
-	title={Long Document Summarization with Top-down and Bottom-up Inference},
-	author={Pang, Bo and Nijkamp, Erik and Kry{\'s}ci{\'n}ski, Wojciech and Savarese, Silvio and Zhou, Yingbo and Xiong, Caiming},
-	booktitle={Findings of the Association for Computational Linguistics: EACL 2023},
-	pages={1237--1254},
-	year={2023}
-}
+
 
 @article{Xiong2022AdaptingPT,
 	title={Adapting Pretrained Text-to-Text Models for Long Text Sequences},
@@ -314,9 +297,112 @@
 	
 	doi={10.1109/TASLP.2020.3006731}}
 
+@article{ALOMARI,
+	title = {Deep reinforcement and transfer learning for abstractive text summarization: A review},
+	journal = {Computer Speech and Language},
+	volume = {71},
+	pages = {101276},
+	year = {2022},
+	issn = {0885-2308},
+	doi = {https://doi.org/10.1016/j.csl.2021.101276},
+	url = {https://www.sciencedirect.com/science/article/pii/S0885230821000796},
+	author = {Ayham Alomari and Norisma Idris and Aznul Qalid Md Sabri and Izzat Alsmadi}
+}
+@inproceedings{pang2023long,
+	title={Long Document Summarization with Top-down and Bottom-up Inference},
+	author={Pang, Bo and Nijkamp, Erik and Kryscin?ski, Wojciech and Savarese, Silvio and Zhou, Yingbo and Xiong, Caiming},
+	booktitle={Findings of the Association for Computational Linguistics: EACL 2023},
+	pages={1237--1254},
+	year={2023}
+}
+@inproceedings{fan-etal-2018-controllable,
+	title = "Controllable Abstractive Summarization",
+	author = "Fan, Angela  and
+	Grangier, David  and
+	Auli, Michael",
+	booktitle = "Proceedings of the 2nd Workshop on Neural Machine Translation and Generation",
+	month = jul,
+	year = "2018",
+	address = "Melbourne, Australia",
+	publisher = "Association for Computational Linguistics",
+	url = "https://aclanthology.org/W18-2706",
+	doi = "10.18653/v1/W18-2706",
+	pages = "45--54",
+	abstract = "Current models for document summarization disregard user preferences such as the desired length, style, the entities that the user might be interested in, or how much of the document the user has already read. We present a neural summarization model with a simple but effective mechanism to enable users to specify these high level attributes in order to control the shape of the final summaries to better suit their needs. With user input, our system can produce high quality summaries that follow user preferences. Without user input, we set the control variables automatically {--} on the full text CNN-Dailymail dataset, we outperform state of the art abstractive systems (both in terms of F1-ROUGE1 40.38 vs. 39.53 F1-ROUGE and human evaluation.",
+}
+@inproceedings{shapira-etal-2021-extending,
+	title = "Extending Multi-Document Summarization Evaluation to the Interactive Setting",
+	author = "Shapira, Ori  and
+	Pasunuru, Ramakanth  and
+	Ronen, Hadar  and
+	Bansal, Mohit  and
+	Amsterdamer, Yael  and
+	Dagan, Ido",
+	booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+	month = jun,
+	year = "2021",
+	address = "Online",
+	publisher = "Association for Computational Linguistics",
+	url = "https://aclanthology.org/2021.naacl-main.54",
+	doi = "10.18653/v1/2021.naacl-main.54",
+	pages = "657--677",
+	abstract = "Allowing users to interact with multi-document summarizers is a promising direction towards improving and customizing summary results. Different ideas for interactive summarization have been proposed in previous work but these solutions are highly divergent and incomparable. In this paper, we develop an end-to-end evaluation framework for interactive summarization, focusing on expansion-based interaction, which considers the accumulating information along a user session. Our framework includes a procedure of collecting real user sessions, as well as evaluation measures relying on summarization standards, but adapted to reflect interaction. All of our solutions and resources are available publicly as a benchmark, allowing comparison of future developments in interactive summarization, and spurring progress in its methodological evaluation. We demonstrate the use of our framework by evaluating and comparing baseline implementations that we developed for this purpose, which will serve as part of our benchmark. Our extensive experimentation and analysis motivate the proposed evaluation framework design and support its viability.",
+}
+
+@inproceedings{shapira-etal-2022-interactive,
+	title = "Interactive Query-Assisted Summarization via Deep Reinforcement Learning",
+	author = "Shapira, Ori  and
+	Pasunuru, Ramakanth  and
+	Bansal, Mohit  and
+	Dagan, Ido  and
+	Amsterdamer, Yael",
+	booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+	month = jul,
+	year = "2022",
+	address = "Seattle, United States",
+	publisher = "Association for Computational Linguistics",
+	url = "https://aclanthology.org/2022.naacl-main.184",
+	doi = "10.18653/v1/2022.naacl-main.184",
+	pages = "2551--2568",
+	abstract = "Interactive summarization is a task that facilitates user-guided exploration of information within a document set. While one would like to employ state of the art neural models to improve the quality of interactive summarization, many such technologies cannot ingest the full document set or cannot operate at sufficient speed for interactivity. To that end, we propose two novel deep reinforcement learning models for the task that address, respectively, the subtask of summarizing salient information that adheres to user queries, and the subtask of listing suggested queries to assist users throughout their exploration. In particular, our models allow encoding the interactive session state and history to refrain from redundancy. Together, these models compose a state of the art solution that addresses all of the task requirements. We compare our solution to a recent interactive summarization system, and show through an experimental study involving real users that our models are able to improve informativeness while preserving positive user experience.",
+}
+
+@ARTICLE{PoBRL,
+	
+	author={Su, DiJia and Su, Difei and Mulvey, John M. and Poor, H.Vincent},
+	
+	journal={IEEE Transactions on Artificial Intelligence}, 
+	
+	title={Optimizing Multidocument Summarization by Blending Reinforcement Learning Policies}, 
+	
+	year={2023},
+	
+	volume={4},
+	
+	number={3},
+	
+	pages={416-427},
+	
+	doi={10.1109/TAI.2022.3201807}}
 
 
 
+@inproceedings{kryscinski-etal-2018-improving,
+	title = "Improving Abstraction in Text Summarization",
+	author = "Kryscinski, Wojciech  and
+	Paulus, Romain  and
+	Xiong, Caiming  and
+	Socher, Richard",
+	booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+	month = oct # "-" # nov,
+	year = "2018",
+	address = "Brussels, Belgium",
+	publisher = "Association for Computational Linguistics",
+	url = "https://aclanthology.org/D18-1207",
+	doi = "10.18653/v1/D18-1207",
+	pages = "1808--1817",
+	abstract = "Abstractive text summarization aims to shorten long text documents into a human readable form that contains the most important facts from the original document. However, the level of actual abstraction as measured by novel phrases that do not appear in the source document remains low in existing approaches. We propose two techniques to improve the level of abstraction of generated summaries. First, we decompose the decoder into a contextual network that retrieves relevant parts of the source document, and a pretrained language model that incorporates prior knowledge about language generation. Second, we propose a novelty metric that is optimized directly through policy learning to encourage the generation of novel phrases. Our model achieves results comparable to state-of-the-art models, as determined by ROUGE scores and human evaluations, while achieving a significantly higher level of abstraction as measured by n-gram overlap with the source document.",
+}
 
 
 
