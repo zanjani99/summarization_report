@@ -1,0 +1,6 @@
+
+
+    Text Segmentation Stage: In this stage, the input text is divided into segments. The goal is to find segmentation points that indicate a change of topic and ensure that each segment is topically coherent. The number of segments can be specified by the user or set based on the desired ratio of the input length.
+
+    Summarization Stage: This stage is further divided into two sub-stages: the extractive model
+

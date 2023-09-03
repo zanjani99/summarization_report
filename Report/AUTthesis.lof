@@ -2,20 +2,20 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces معماری پایه‌‌ی مدل کدگذار-کدگشا\cite {RL_survey}}}{8}{figure.3.1}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری پایه‌‌ی مدل دوگانه‌ی کدگذار \cite {yao2018dual}}}{9}{figure.3.2}%
-\contentsline {figure}{\numberline {3-3}{\ignorespaces معماری پایه‌‌ی مدل سلسله مراتبی متغیر برای خلاصه‌سازی متقابل زبانی\cite {variational}}}{10}{figure.3.3}%
-\contentsline {figure}{\numberline {3-4}{\ignorespaces معماری مدل تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{11}{figure.3.4}%
-\contentsline {figure}{\numberline {3-5}{\ignorespaces تعبیه مدل تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{12}{figure.3.5}%
-\contentsline {figure}{\numberline {3-6}{\ignorespaces معماری ترنسفورمر تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{13}{figure.3.6}%
-\contentsline {figure}{\numberline {3-7}{\ignorespaces چهارچوب ایجاد خلاصه با طول متغیر\cite {twostage}}}{14}{figure.3.7}%
-\contentsline {figure}{\numberline {3-8}{\ignorespaces ساختار مدل بارت \cite {lewis-etal-2020-bart}}}{15}{figure.3.8}%
-\contentsline {figure}{\numberline {3-9}{\ignorespaces ساختار مدل پگاسوس \cite {zhang2020pegasus}}}{16}{figure.3.9}%
-\contentsline {figure}{\numberline {3-10}{\ignorespaces الگوریتم ام‌دات \cite {sherborne2023meta}}}{17}{figure.3.10}%
-\contentsline {figure}{\numberline {3-11}{\ignorespaces معماری مدل ترنسفورمر از بالا به پایین\cite {pang2023long}}}{19}{figure.3.11}%
-\contentsline {figure}{\numberline {3-12}{\ignorespaces لایه خودتوجهی تقویت شده ادغام شده \cite {Xiong2022AdaptingPT}}}{21}{figure.3.12}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces معماری پایه‌‌ی مدل کدگذار-کدگشا \cite {RL_survey}}}{7}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces معماری پایه‌‌ی مدل دوگانه‌ی کدگذار \cite {yao2018dual}}}{8}{figure.3.2}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces معماری پایه‌‌ی مدل سلسله مراتبی متغیر برای خلاصه‌سازی متقابل زبانی \cite {variational}}}{9}{figure.3.3}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces معماری مدل تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{10}{figure.3.4}%
+\contentsline {figure}{\numberline {3-5}{\ignorespaces تعبیه مدل تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{11}{figure.3.5}%
+\contentsline {figure}{\numberline {3-6}{\ignorespaces معماری ترنسفورمر تی‌برت‌سام \cite {Ma2022TBERTSumTT}}}{12}{figure.3.6}%
+\contentsline {figure}{\numberline {3-7}{\ignorespaces چهارچوب ایجاد خلاصه با طول متغیر \cite {twostage}}}{13}{figure.3.7}%
+\contentsline {figure}{\numberline {3-8}{\ignorespaces عمل‌های پیش‌آموزش بارت \cite {lewis-etal-2020-bart}}}{14}{figure.3.8}%
+\contentsline {figure}{\numberline {3-9}{\ignorespaces ساختار مدل پگاسوس \cite {zhang2020pegasus}}}{15}{figure.3.9}%
+\contentsline {figure}{\numberline {3-10}{\ignorespaces الگوریتم ام‌دات \cite {sherborne2023meta}}}{16}{figure.3.10}%
+\contentsline {figure}{\numberline {3-11}{\ignorespaces معماری مدل ترنسفورمر از بالا به پایین \cite {pang2023long}}}{18}{figure.3.11}%
+\contentsline {figure}{\numberline {3-12}{\ignorespaces لایه خودتوجهی تقویت شده ادغام شده \cite {Xiong2022AdaptingPT}}}{20}{figure.3.12}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces یک نمونه از نمودار منحنی بازیابی بر اساس طول \cite {shapira-etal-2021-extending}}}{27}{figure.4.1}%
-\contentsline {figure}{\numberline {4-2}{\ignorespaces معماری مدل ام‌سام \cite {shapira-etal-2022-interactive}}}{28}{figure.4.2}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces یک نمونه از نمودار منحنی بازیابی بر اساس طول \cite {shapira-etal-2021-extending}}}{26}{figure.4.1}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces معماری مدل ام‌سام \cite {shapira-etal-2022-interactive}}}{27}{figure.4.2}%
 \addvspace {10\p@ }
 \contentsfinish 

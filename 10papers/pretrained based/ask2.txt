@@ -1,0 +1,9 @@
+The proposed model for variable-length abstractive summarization achieves the following achievements:
+
+     Fluent and Variable-Length Summarization: The model can generate variable-length abstractive summaries according to the user's demands. This is an improvement over previous models as it can simultaneously achieve fluent and variable-length abstractive summarization.
+
+     Text Segmentation Improvement: The model utilizes a text segmentation module that combines BERT (Bidirectional Encoder Representations from Transformers) and Bidirectional LSTM. This approach shows improved performance over existing methods for text segmentation.
+
+     Two-Stage Transformer-Based Summarization: The model consists of a text segmentation module and a two-stage Transformer-based summarization module. The segment transformer module generates a sentence-based summary from each segment, while the document transformer module generates a headline summary of the entire text input. This combination of extractive and abstractive methods produces fluent and variable-length abstractive summaries.
+
+Overall, the proposed model provides a system that can generate variable-length abstract summaries according to user demand, improving upon previous models in terms of fluency and variability.

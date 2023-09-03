@@ -1,29 +1,29 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست اشکال}{ج}{section*.2}%
-\contentsline {chapter}{فهرست جداول}{د}{section*.3}%
+\contentsline {chapter}{فهرست اشکال}{ج}{section*.1}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{فهرست نمادها}{ه}{section*.3}%
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}روش‌های مبتنی بر ساختار}{3}{chapter.2}%
-\contentsline {section}{\numberline {2-1}روش مبتنی بر درخت}{4}{section.2.1}%
-\contentsline {section}{\numberline {2-2}روش مبتنی بر قالب}{4}{section.2.2}%
-\contentsline {section}{\numberline {2-3}روش مبتنی بر هستان شناسی}{5}{section.2.3}%
-\contentsline {section}{\numberline {2-4}روش عبارت مقدمه و بدنه}{5}{section.2.4}%
-\contentsline {section}{\numberline {2-5}روش مبتنی بر گراف}{5}{section.2.5}%
-\contentsline {section}{\numberline {2-6}روش مبتنی بر قانون }{6}{section.2.6}%
-\contentsline {chapter}{\numberline {3}روش‌های مبتنی بر شبکه‌ی عصبی عمیق}{7}{chapter.3}%
-\contentsline {section}{\numberline {3-1}روش‌های مبتنی بر مدل کدگذار-کدگشا}{8}{section.3.1}%
-\contentsline {section}{\numberline {3-2}روش ‌های مبتنی بر مدل ترنسفورمر‌}{10}{section.3.2}%
-\contentsline {subsection}{\numberline {3-2-1}ایده‌های ارائه شده بهبود خلاصه‌سازی متون طولانی }{17}{subsection.3.2.1}%
-\contentsline {chapter}{\numberline {4}روش‌های مبتنی بر یادگیری تقویتی}{22}{chapter.4}%
-\contentsline {section}{\numberline {4-1}یادگیری تقویتی برای حل مسائل عمیق توالی به دنباله}{23}{section.4.1}%
-\contentsline {section}{\numberline {4-2}یادگیری تقویتی برای ترکیب خلاصه‌های استخراجی و انتزاعی}{24}{section.4.2}%
-\contentsline {section}{\numberline {4-3}یادگیری تقویتی برای ایجاد معیارها و پاداش‌های جدید}{25}{section.4.3}%
-\contentsline {section}{\numberline {4-4} یادگیری تقویتی برای ایجاد خلاصه متناسب با نیاز کاربر}{26}{section.4.4}%
-\contentsline {chapter}{\numberline {5}جمع‌بندی}{29}{chapter.5}%
-\contentsline {chapter}{منابع و مراجع}{31}{appendix*.20}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{37}{appendix*.21}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{40}{appendix*.22}%
+\contentsline {section}{\numberline {1-1}مقدمه}{1}{section.1.1}%
+\contentsline {section}{\numberline {1-2}چشم‌انداز نوشتار}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}روش‌های مبتنی بر ساختار}{2}{chapter.2}%
+\contentsline {section}{\numberline {2-1}روش مبتنی بر درخت}{3}{section.2.1}%
+\contentsline {section}{\numberline {2-2}روش مبتنی بر قالب}{3}{section.2.2}%
+\contentsline {section}{\numberline {2-3}روش مبتنی بر هستان‌شناسی}{4}{section.2.3}%
+\contentsline {section}{\numberline {2-4}روش عبارت مقدمه و بدنه}{4}{section.2.4}%
+\contentsline {section}{\numberline {2-5}روش مبتنی بر گراف}{4}{section.2.5}%
+\contentsline {section}{\numberline {2-6}روش مبتنی بر قانون }{5}{section.2.6}%
+\contentsline {chapter}{\numberline {3}روش‌های مبتنی بر شبکه‌ی عصبی عمیق}{6}{chapter.3}%
+\contentsline {section}{\numberline {3-1}روش‌های مبتنی بر مدل کدگذار-کدگشا}{7}{section.3.1}%
+\contentsline {section}{\numberline {3-2}روش‌های مبتنی بر مدل ترنسفورمر‌}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3-2-1}ایده‌های ارائه شده بهبود خلاصه‌سازی متون طولانی }{16}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {4}روش‌های مبتنی بر یادگیری تقویتی}{21}{chapter.4}%
+\contentsline {section}{\numberline {4-1} یادگیری تقویتی برای حل چالش‌های مدل دنباله به دنباله عمیق}{22}{section.4.1}%
+\contentsline {section}{\numberline {4-2}یادگیری تقویتی برای ترکیب خلاصه‌های استخراجی و انتزاعی}{23}{section.4.2}%
+\contentsline {section}{\numberline {4-3}یادگیری تقویتی برای ایجاد معیارها و پاداش‌های جدید}{24}{section.4.3}%
+\contentsline {section}{\numberline {4-4} یادگیری تقویتی برای ایجاد خلاصه متناسب با نیاز کاربر}{25}{section.4.4}%
+\contentsline {chapter}{\numberline {5}جمع‌بندی}{28}{chapter.5}%
+\contentsline {chapter}{منابع و مراجع}{30}{appendix*.2}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{36}{appendix*.3}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{39}{appendix*.4}%
 \contentsfinish 

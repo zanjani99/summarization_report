@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.8.2)  30 AUG 2023 19:45
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2023.8.2)  1 SEP 2023 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1239,8 +1239,8 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 120.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./AUTthesis.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux) (./dicfa2en.aux) (./dicen2fa.aux))
+(./AUTthesis.aux (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+(./chapter5.aux) (./dicfa2en.aux) (./dicen2fa.aux))
 \openout1 = `AUTthesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1363,93 +1363,44 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ]
 File: besm.jpg Graphic file (type bmp)
 <besm.jpg>
-) (./acknowledgement.tex [2]
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 39.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 39.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 42.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 42.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 46.
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 46.
-) (./TOC-TOF-LOT.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 14.49998pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-[1
-
-]
+) (./TOC-TOF-LOT.tex [1]
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88794pt on input line 7.
  (./AUTthesis.toc
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 7.
+(Font)              scaled to size 14.39996pt on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write6
 \openout6 = `AUTthesis.toc'.
 
  [2
 
-] (./AUTthesis.lof)
+]
+(./AUTthesis.lof)
 \tf@lof=\write7
 \openout7 = `AUTthesis.lof'.
 
- [3
-
-] (./AUTthesis.lot)
-\tf@lot=\write8
-\openout8 = `AUTthesis.lot'.
-
- [4
-
-])
-(./list-of-symbols.tex
-LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 13.
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-[][]
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-[][]
- []
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
 
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 21.
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-[5
+[3
 
-
-])
-\openout2 = `chapter1.aux'.
-
- (./chapter1.tex
+]) (./chapter1.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 29.85593pt on input line 1.
@@ -1464,91 +1415,37 @@ LaTeX Font Info:    Font shape `TU/BNazanin.ttf(1)/m/n' will be
 [1
 
 
-]) [2]
+
+
+]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 2.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 2.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 9.59998pt on input line 11.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 11.99997pt on input line 11.
+) [1]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
 فصل 2.
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(1)/b/n' will be
 (Font)              scaled to size 32.84999pt on input line 1.
-[3
+[2
 
 
-
-] [4] [5]
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no e in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no d in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no i in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no t in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-) [6]
+] [3] [4]) [5]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 فصل 3.
-[7
+[6
 
 
 
 ]
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
- []
-
-
-Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
- []
-
-
-Overfull \hbox (2.45506pt too wide) in paragraph at lines 2--2
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 مقدمه؟[] [] 
- []
-
-
-LaTeX Warning: Marginpar on page 8 moved.
-
 Missing character: There is no   in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 File: encoder_decoder.png Graphic file (type bmp)
@@ -1560,7 +1457,7 @@ Overfull \hbox (25.54077pt too wide) in paragraph at lines 26--27
 
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 13.13995pt on input line 31.
-[8]
+[7]
 File: dualـencoder.png Graphic file (type bmp)
 <dualـencoder.png>
 File: Variational Hierarchical Model.png Graphic file (type bmp)
@@ -1569,10 +1466,10 @@ File: Variational Hierarchical Model.png Graphic file (type bmp)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9]
+[8]
 File: tbertsum_framework.png Graphic file (type bmp)
 <tbertsum_framework.png>
- [10]
+ [9]
 File: TbertSum_embedding.png Graphic file (type bmp)
 <TbertSum_embedding.png>
 
@@ -1583,105 +1480,69 @@ Overfull \hbox (41.75806pt too wide) in paragraph at lines 114--115
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (2.91913pt too wide) in paragraph at lines 130--130
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
- []
-
-
-Overfull \hbox (1.18945pt too wide) in paragraph at lines 130--130
-[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
- []
-
-
-Overfull \hbox (2.91913pt too wide) in paragraph at lines 130--130
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
- []
-
-
-Overfull \hbox (1.18945pt too wide) in paragraph at lines 130--130
-[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (2.91913pt too wide) in paragraph at lines 130--130
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
- []
-
-
-Overfull \hbox (1.18945pt too wide) in paragraph at lines 130--130
-[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
- []
-
-
-Overfull \hbox (2.91913pt too wide) in paragraph at lines 130--130
-[][][][]\TU/BNazanin.ttf(0)/b/n/12 جمله‌ی[] 
- []
-
-
-Overfull \hbox (1.18945pt too wide) in paragraph at lines 130--130
-[]\TU/BNazanin.ttf(0)/b/n/12 تکراری[] 
- []
-
-[11]
+[10]
 File: tbertsum_transformer.png Graphic file (type bmp)
 <tbertsum_transformer.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-LaTeX Warning: Marginpar on page 12 moved.
-
+[11] [12]
 File: two-stage model.png Graphic file (type bmp)
 <two-stage model.png>
 
-Overfull \hbox (44.00685pt too wide) in paragraph at lines 151--152
+Overfull \hbox (44.00685pt too wide) in paragraph at lines 189--190
  [][][][][] 
  []
+
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+File: bart2.png Graphic file (type bmp)
+<bart2.png>
+[13]
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+ [14]
+File: pegasus.png Graphic file (type bmp)
+<pegasus.png>
+File: Mdot.png Graphic file (type bmp)
+<Mdot.png>
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 159--162
-[][]
- []
-
-[12]
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [13]
-Overfull \hbox (17.5101pt too wide) in paragraph at lines 185--186
-[][]\TU/BNazanin.ttf(0)/b/n/12 آموزش مشارکتی: آموزش مشارکتی برای آموزش متناوب م
-اژول خلاصه‌سازی بخش و ماژول خلاصه‌سازی[]
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-File: bart.png Graphic file (type bmp)
-<bart.png>
-[14]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 17.27994pt on input line 300.
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/b/n' will be
+(Font)              scaled to size 17.27994pt on input line 300.
 Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
 Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
@@ -1706,12 +1567,44 @@ Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dfl
 ;mapping=tex-text;!
 Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
- [15]
-File: pegasus.png Graphic file (type bmp)
-<pegasus.png>
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+[15]
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
+Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
+;mapping=tex-text;!
  [16]
-File: Mdot.png Graphic file (type bmp)
-<Mdot.png>
 Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
 Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
@@ -1720,187 +1613,59 @@ Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dfl
 ;mapping=tex-text;!
 Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
 ;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [17]
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no ‫ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‪ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
-Missing character: There is no ‬ in font [Times New Roman.ttf]/OT:language=dflt
-;mapping=tex-text;!
- [18]
 File: top_down.png Graphic file (type bmp)
 <top_down.png>
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
- [19]
-Overfull \hbox (2.7727pt too wide) in paragraph at lines 386--388
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17]
+Overfull \hbox (2.7727pt too wide) in paragraph at lines 364--366
 [][]\TU/BNazanin.ttf(0)/b/n/12 این روش می‌تواند از مدل‌های خلاصه‌سازی مختلف از 
 جمله شبکه‌ی عصبی بازگشتی و ترنسفورمرها[]
  []
 
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-[20]
+[18]
 File: pooling_attention.png Graphic file (type bmp)
 <pooling_attention.png>
-) [21]
+ [19]) [20]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 فصل 4.
-[22
+[21
 
 
 
-] [23] [24]
+] [22] [23]
 
-LaTeX Warning: Citation `ALOMARI' on page 25 undefined on input line 69.
+LaTeX Warning: Citation `ALOMARI' on page 24 undefined on input line 47.
 
 Missing character: There is no φ in font cmmi12!
 Missing character: There is no ـ in font cmmi12!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (3.59413pt too wide) in paragraph at lines 96--96
-[]\TU/BNazanin.ttf(0)/b/n/12 متغیرها[] 
- []
-
-
-Overfull \hbox (3.59413pt too wide) in paragraph at lines 96--96
-[]\TU/BNazanin.ttf(0)/b/n/12 متغیرها[] 
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (3.59413pt too wide) in paragraph at lines 96--96
-[]\TU/BNazanin.ttf(0)/b/n/12 متغیرها[] 
- []
-
-
-Overfull \hbox (3.59413pt too wide) in paragraph at lines 96--96
-[]\TU/BNazanin.ttf(0)/b/n/12 متغیرها[] 
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-[25]
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (0.52148pt too wide) in paragraph at lines 101--101
-[]\TU/BNazanin.ttf(0)/b/n/12 میخواد[] [] 
- []
-
-
-Overfull \hbox (0.52148pt too wide) in paragraph at lines 101--101
-[]\TU/BNazanin.ttf(0)/b/n/12 میخواد[] [] 
- []
-
-Missing character: There is no X in font [B Nazanin.ttf]/OT:script=arab;languag
-e=dflt;mapping=persian-tex-text;!
-
-Overfull \hbox (0.52148pt too wide) in paragraph at lines 101--101
-[]\TU/BNazanin.ttf(0)/b/n/12 میخواد[] [] 
- []
-
-
-Overfull \hbox (0.52148pt too wide) in paragraph at lines 101--101
-[]\TU/BNazanin.ttf(0)/b/n/12 میخواد[] [] 
- []
-
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-[26]
+LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 7.19998pt on input line 71.
+[24] [25]
 File: recall cureve.png Graphic file (type bmp)
 <recall cureve.png>
- [27]
+ [26]
 File: query-assited.png Graphic file (type bmp)
 <query-assited.png>
 
-Overfull \hbox (24.65897pt too wide) in paragraph at lines 179--180
+Overfull \hbox (24.65897pt too wide) in paragraph at lines 142--143
  [][][][][] 
  []
 
-) [28]
+) [27]
 \openout2 = `chapter5.aux'.
 
  (./chapter5.tex
 فصل 5.
-[29
+[28
 
 
 
-]) [30] (./AUTthesis.bbl
+]) [29] (./AUTthesis.bbl
 LaTeX Font Info:    Font shape `TU/BNazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
 
@@ -1915,10 +1680,10 @@ Underfull \hbox (badness 1688) in paragraph at lines 57--62
 oeder, Geoffrey, and Duvenaud,[]
  []
 
-[31
+[30
 
 
-] [32] [33] [34] [35]) [36]
+] [31] [32] [33] [34]) [35]
 \openout2 = `dicfa2en.aux'.
 
  (./dicfa2en.tex
@@ -1946,7 +1711,7 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [37
+ [36
 
 
 ]
@@ -1966,12 +1731,12 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [38]
+ [37]
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-) [39]
+) [38]
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
@@ -2009,7 +1774,7 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-[40
+[39
 
 
 
@@ -2034,22 +1799,27 @@ Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
- [41]
+ [40]
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
 Missing character: There is no p in font [B Nazanin.ttf]/OT:script=arab;languag
 e=dflt;mapping=persian-tex-text;!
-) [42]
+) [41]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
- (./AUTthesis.aux (./chapter1.aux) (./chapter2.aux)
-(./chapter3.aux) (./chapter4.aux) (./chapter5.aux) (./dicfa2en.aux)
-(./dicen2fa.aux))
+ (./AUTthesis.aux (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./chapter5.aux) (./dicfa2en.aux) (./dicen2fa.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
-Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
-(rerunfilecheck)             Checksum: E2BDCB16FE96F5A01E10992761D4FBF9;2217.
 
+
+Package rerunfilecheck Warning: File `AUTthesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AUTthesis.out':
+(rerunfilecheck)             Before: 91E1DF65C9E0C300E3911B12F5CF0E21;2243
+(rerunfilecheck)             After:  CFD5E8F2711FA01AF650BACC47895FBD;2250.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2059,12 +1829,12 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 29127 strings out of 479819
- 582124 string characters out of 5895847
- 935243 words of memory out of 5000000
- 45565 multiletter control sequences out of 15000+600000
+ 28870 strings out of 479819
+ 576410 string characters out of 5895847
+ 913241 words of memory out of 5000000
+ 45320 multiletter control sequences out of 15000+600000
  541539 words of font info for 96 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,12n,85p,4831b,1093s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,12n,85p,4831b,581s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on AUTthesis.pdf (49 pages).
+Output written on AUTthesis.pdf (46 pages).

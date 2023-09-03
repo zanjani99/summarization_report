@@ -1,0 +1,11 @@
+
+
+    Text Segmentation Model: This module is responsible for dividing the input text into segments. It uses punctuation marks as delimiters to split the text into sentences. Each sentence is then encoded to obtain a sentence representation, and a classifier determines whether each sentence is the starting or ending point of a segment.
+
+    Extractive Model: This module performs extractive summarization, which involves selecting key sentences from the input text. It helps train the segment transformer model by generating an extractive summary for each segment.
+
+    Document Transformer Model: This module is part of the abstractive summarization model. It generates a headline summary of the entire input text. During the training phase, it is used as a pre-trained model to assist in training the segment transformer model.
+
+    Segment Transformer Model: This module is the core of the abstractive summarization model. It generates a sentence-based summary for each segment. The segment summaries are concatenated to form a variable-length abstractive summary. During the testing phase, this model, along with the text segmentation model, is used to generate the summarization results.
+
+The main idea behind this model is to combine extractive and abstractive summarization methods to produce fluent and variable-length abstractive summaries. By using the text segmentation model, the input text can be dynamically divided into segments, and each segment can be summarized abstractively while maintaining fluency. The extractive model helps train the segment transformer model, and the document transformer model provides guidance during training. The proposed approach addresses the limitations of existing abstractive summarization models, which typically generate fixed-length summaries, and the lack of databases with variable-length summaries.
